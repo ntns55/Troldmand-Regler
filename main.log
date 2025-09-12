@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  15 AUG 2025 00:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  12 SEP 2025 12:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1121,7 +1121,7 @@ Package hyperref Info: Link coloring ON on input line 29.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-<setup/Pictures/A01.C01.01_Front_Billede.png, id=305, 10037.5pt x 2762.32pt>
+<setup/Pictures/A01.C01.01_Front_Billede.png, id=285, 10037.5pt x 2762.32pt>
 File: setup/Pictures/A01.C01.01_Front_Billede.png Graphic file (type png)
 <use setup/Pictures/A01.C01.01_Front_Billede.png>
 Package pdftex.def Info: setup/Pictures/A01.C01.01_Front_Billede.png  used on input line 32.
@@ -1170,7 +1170,7 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 4.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 ...sline {chapter}{Niveau 4}{13}{chapter*.14}
+l.19 ...sline {chapter}{Niveau 4}{12}{chapter*.14}
                                                   % [1
 
 
@@ -1178,15 +1178,13 @@ l.19 ...sline {chapter}{Niveau 4}{13}{chapter*.14}
 
 [2]
 
-[3]
-
-[4])
+[3])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
  (mainstuff/Indledning.tex
 
-[5]
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
@@ -1201,34 +1199,34 @@ LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 1
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 )) (mainstuff/Niv1.tex
 
-[6
+[5
 
 
-] (mainstuff/Evner/Læse og skrive Elvisk.tex
+] (../Evne-Ordbog/Læse og skrive/Læse og skrive Elvisk.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 2.
 
 
 
-pdfTeX warning: pdflatex (file ./setup/Alfabeter/Elvisk alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<setup/Alfabeter/Elvisk alfabet.pdf, id=429, 495.14487pt x 82.34865pt>
-File: setup/Alfabeter/Elvisk alfabet.pdf Graphic file (type pdf)
-<use setup/Alfabeter/Elvisk alfabet.pdf>
-Package pdftex.def Info: setup/Alfabeter/Elvisk alfabet.pdf  used on input line 6.
+pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf, id=398, 495.14487pt x 82.34865pt>
+File: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf Graphic file (type pdf)
+<use ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf>
+Package pdftex.def Info: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf  used on input line 6.
 (pdftex.def)             Requested size: 426.79135pt x 70.98305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
  []
 
-) (mainstuff/Evner/Læse og skrive Magisk.tex
+) (../Evne-Ordbog/Læse og skrive/Læse og skrive Magisk.tex
 
-pdfTeX warning: pdflatex (file ./setup/Alfabeter/Magisk alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<setup/Alfabeter/Magisk alfabet.pdf, id=430, 495.14487pt x 70.73526pt>
-File: setup/Alfabeter/Magisk alfabet.pdf Graphic file (type pdf)
-<use setup/Alfabeter/Magisk alfabet.pdf>
-Package pdftex.def Info: setup/Alfabeter/Magisk alfabet.pdf  used on input line 6.
+pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf, id=399, 495.14487pt x 70.73526pt>
+File: ../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf Graphic file (type pdf)
+<use ../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf>
+Package pdftex.def Info: ../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf  used on input line 6.
 (pdftex.def)             Requested size: 426.79135pt x 60.9725pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--8
@@ -1237,17 +1235,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
 )
 
-[7
+[6
 
 
- <./setup/Alfabeter/Elvisk alfabet.pdf>]
+ <../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 29--31
 
  []
 
 ) (mainstuff/Niv2.tex
 
-[8 <./setup/Alfabeter/Magisk alfabet.pdf>]
+[7 <../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf>]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 18.
@@ -1259,12 +1257,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
 
 
-[9
+[8
 
 
 ]) (mainstuff/Niv3.tex
 
-[10]
+[9]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 18.
@@ -1276,12 +1274,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--29
 
 
 
-[11
+[10
 
 
 ]) (mainstuff/Niv4.tex
 
-[12]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -1307,7 +1305,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 
 
 
-[13
+[12
 
 
 ]
@@ -1317,25 +1315,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 59.
+(hyperref)                be the same. Added a new anchor on input line 58.
 
 
 
-[14] (mainstuff/Evner/Ekstra LP Niv. 1.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--66
+[13] (mainstuff/Evner/Ekstra LP Niv. 1.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--65
 
  []
 
 (mainstuff/Evner/Ekstra LP Niv. 2.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--68
+Underfull \hbox (badness 10000) in paragraph at lines 3--67
 
  []
 
-) (setup/GenerelleEvner.tex
+) (../Evne-Ordbog/GenerelleEvner/GenerelleEvnerMedMagiIngenTohåndsvåben.tex
+
+[14]
 
 [15]
-
-[16]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 9.37807pt on input line 28.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
@@ -1348,7 +1346,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.29405pt on input line 28.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 5.21004pt on input line 28.
- (setup/Evner/6SansNiv1.tex
+ (../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 2.
@@ -1358,74 +1356,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--34
 
  []
 
-(setup/Evner/6SansNiv2.tex)
+(../Evne-Ordbog/GenerelleEvner/Evner/6sansNiv2.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--36
 
  []
 
 
 
-[17
+[16
 
 
-] (setup/Evner/Bonk.tex)
+] (../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
  []
 
-(setup/Evner/Bære Person.tex)
+(../Evne-Ordbog/GenerelleEvner/Evner/Bære Person.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--40
 
  []
 
-(setup/Evner/Førstehjælp.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--42
-
- []
-
-(setup/Evner/Lave Artefakter.tex
+(../Evne-Ordbog/GenerelleEvner/Evner/Førstehjælp.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Lave Artefakter.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
 
 
-[18]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
  []
 
 
 
-[19]
+[18]
 
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 64--69
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
 
  []
 
-) (setup/Evner/Læse og skrive.tex)
+
+
+[20]) (../Evne-Ordbog/GenerelleEvner/Evner/Læse og skrive.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--46
 
  []
 
+(../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex
 
-
-[21] (setup/Evner/Minearbejder.tex) (setup/Evner/Påfør Gift.tex) (setup/Evner/Slagsbror Niv 1.tex) (setup/Evner/Slagsbror Niv 2.tex) (setup/Evner/Slagsbror Niv 3.tex) (setup/Evner/Speciale.tex
+[21]) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
 
-
-[22]
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-) (setup/Evner/Universets Centrum.tex) (setup/Evner/Urtesamler.tex)) (mainstuff/MagiSomTroldmand.tex
+) (../Evne-Ordbog/GenerelleEvner/Evner/Universets Centrum.tex)
 
-[23] (setup/Generelt om Magi.tex
+[22] (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex)) (mainstuff/MagiSomTroldmand.tex
+
+[23] (../Evne-Ordbog/Generelt om Magi.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 2.
@@ -1454,118 +1449,9 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 [27
 
 
-] (mainstuff/Stier/Arkanist.tex
+] (mainstuff/Stier/Demonolog.tex
 
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-[]|\T1/pplx/m/n/10.95 Den l�r-des
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-[]|\T1/pplx/m/n/10.95 Arkanaens
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-[]|\T1/pplx/m/n/10.95 Sf�re Arit-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
-[]|\T1/pplx/m/n/10.95 Magisk be-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
-[]|\T1/pplx/m/n/10.95 Skab
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
-\T1/pplx/m/n/10.95 skriftrul-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
-[]|\T1/pplx/m/n/10.95 Magiens
- []
-
-
-Underfull \hbox (badness 2486) in paragraph at lines 10--10
-[]|\T1/pplx/m/n/10.95 Arkana b�l-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
-[]|\T1/pplx/m/n/10.95 Arkanisk
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--11
-[]|\T1/pplx/m/n/10.95 Arkanisk
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--11
-[]|\T1/pplx/m/n/10.95 Arkanisk
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--11
-\T1/pplx/m/n/10.95 Sf�-re in-te-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]|\T1/pplx/m/n/10.95 Magisk
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]|\T1/pplx/m/n/10.95 Arkanisk
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]|\T1/pplx/m/n/10.95 Energiens
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-\T1/pplx/m/n/10.95 pa-ral-lel-le
- []
-
-
-Overfull \hbox (10.77075pt too wide) in paragraph at lines 6--14
- [][] 
- []
-
-
-
-[29
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 51--56
-
- []
-
-
-
-[30]
-
-[31]
-
-[32]
-
-[33]
-
-[34]
-
-[35]) (mainstuff/Stier/Demonolog.tex
-
-[36]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 4.
@@ -1632,26 +1518,26 @@ Overfull \hbox (10.77075pt too wide) in paragraph at lines 15--47
 
 
 
-[37
+[29
 
 
 ]
 
-[38]
+[30]
 
-[39]
+[31]
 
-[40]
+[32]
 
-[41]
+[33]
 
-[42]
+[34]
 
-[43]
+[35]
 
-[44]) (mainstuff/Stier/Elementalist.tex
+[36]) (mainstuff/Stier/Elementalist.tex
 
-[45]
+[37]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 []|\T1/pplx/m/n/10.95 Magiens
  []
@@ -1688,25 +1574,25 @@ Overfull \hbox (10.77075pt too wide) in paragraph at lines 8--40
 
 
 
-[46
+[38
 
 
 ]
 
-[47]
+[39]
 
-[48]
+[40]
 
-[49]
+[41]
 
-[50]
+[42]
 Underfull \hbox (badness 10000) in paragraph at lines 176--181
 
  []
 
 ) (mainstuff/Stier/Mentalist.tex
 
-[51]
+[43]
 Underfull \hbox (badness 10000) in paragraph at lines 11--11
 []|\T1/pplx/m/n/10.95 Magisk Be-
  []
@@ -1738,19 +1624,19 @@ Overfull \hbox (10.77075pt too wide) in paragraph at lines 6--38
 
 
 
-[52
+[44
 
 
 ]
 
-[53]
+[45]
 Underfull \hbox (badness 10000) in paragraph at lines 102--107
 
  []
 
 
 
-[54]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 112--117
 
  []
@@ -1767,18 +1653,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--133
 
 
 
-[55]
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 171--177
 
  []
 
 
 
-[56]
+[48]
 
-[57]) (mainstuff/Stier/Nekromantiker.tex
+[49]) (mainstuff/Stier/Nekromantiker.tex
 
-[58]
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
 []|\T1/pplx/m/n/10.95 Sygdomens
  []
@@ -1825,7 +1711,7 @@ Overfull \hbox (10.77075pt too wide) in paragraph at lines 7--40
 
 
 
-[59
+[51
 
 
 ]
@@ -1835,7 +1721,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--62
 
 
 
-[60]
+[52]
 Underfull \hbox (badness 10000) in paragraph at lines 83--86
 
  []
@@ -1847,124 +1733,124 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--93
 
 
 
-[61]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 112--118
 
  []
 
 
 
-[62]
+[54]
 
-[63]
+[55]
 Underfull \hbox (badness 10000) in paragraph at lines 173--178
 
  []
 
 
 
-[64]
+[56]
 Underfull \hbox (badness 10000) in paragraph at lines 197--200
 
  []
 
 )) (mainstuff/Liste af Riter.tex
 
-[65]
-<mainstuff/riteBilleder/Bevægelse.png, id=965, 501.875pt x 421.07312pt>
+[57]
+<mainstuff/riteBilleder/Bevægelse.png, id=902, 501.875pt x 421.07312pt>
 File: mainstuff/riteBilleder/Bevægelse.png Graphic file (type png)
 <use mainstuff/riteBilleder/Bevægelse.png>
 Package pdftex.def Info: mainstuff/riteBilleder/Bevægelse.png  used on input line 4.
 (pdftex.def)             Requested size: 402.79135pt x 337.95764pt.
-<mainstuff/riteBilleder/Dæmon.png, id=966, 501.875pt x 445.665pt>
+<mainstuff/riteBilleder/Dæmon.png, id=903, 501.875pt x 445.665pt>
 File: mainstuff/riteBilleder/Dæmon.png Graphic file (type png)
 <use mainstuff/riteBilleder/Dæmon.png>
 Package pdftex.def Info: mainstuff/riteBilleder/Dæmon.png  used on input line 12.
 (pdftex.def)             Requested size: 402.79135pt x 357.69533pt.
 
 
-[66
+[58
 
 
  <./mainstuff/riteBilleder/Bevægelse.png>]
-<mainstuff/riteBilleder/Død.png, id=972, 501.875pt x 339.76938pt>
+<mainstuff/riteBilleder/Død.png, id=908, 501.875pt x 339.76938pt>
 File: mainstuff/riteBilleder/Død.png Graphic file (type png)
 <use mainstuff/riteBilleder/Død.png>
 Package pdftex.def Info: mainstuff/riteBilleder/Død.png  used on input line 20.
 (pdftex.def)             Requested size: 402.79135pt x 272.70241pt.
 
 
-[67 <./mainstuff/riteBilleder/Dæmon.png>]
-<mainstuff/riteBilleder/Give.png, id=977, 501.875pt x 328.72812pt>
+[59 <./mainstuff/riteBilleder/Dæmon.png>]
+<mainstuff/riteBilleder/Give.png, id=913, 501.875pt x 328.72812pt>
 File: mainstuff/riteBilleder/Give.png Graphic file (type png)
 <use mainstuff/riteBilleder/Give.png>
 Package pdftex.def Info: mainstuff/riteBilleder/Give.png  used on input line 28.
 (pdftex.def)             Requested size: 402.79135pt x 263.84058pt.
 
 
-[68 <./mainstuff/riteBilleder/Død.png>]
-<mainstuff/riteBilleder/Ild.png, id=982, 501.875pt x 334.75063pt>
+[60 <./mainstuff/riteBilleder/Død.png>]
+<mainstuff/riteBilleder/Ild.png, id=919, 501.875pt x 334.75063pt>
 File: mainstuff/riteBilleder/Ild.png Graphic file (type png)
 <use mainstuff/riteBilleder/Ild.png>
 Package pdftex.def Info: mainstuff/riteBilleder/Ild.png  used on input line 36.
 (pdftex.def)             Requested size: 402.79135pt x 268.6743pt.
 
 
-[69 <./mainstuff/riteBilleder/Give.png>]
-<mainstuff/riteBilleder/Jord.png, id=987, 501.875pt x 454.69875pt>
+[61 <./mainstuff/riteBilleder/Give.png>]
+<mainstuff/riteBilleder/Jord.png, id=924, 501.875pt x 454.69875pt>
 File: mainstuff/riteBilleder/Jord.png Graphic file (type png)
 <use mainstuff/riteBilleder/Jord.png>
 Package pdftex.def Info: mainstuff/riteBilleder/Jord.png  used on input line 44.
 (pdftex.def)             Requested size: 402.79135pt x 364.9459pt.
 
 
-[70 <./mainstuff/riteBilleder/Ild.png>]
-<mainstuff/riteBilleder/Liv.png, id=992, 501.875pt x 422.07687pt>
+[62 <./mainstuff/riteBilleder/Ild.png>]
+<mainstuff/riteBilleder/Liv.png, id=929, 501.875pt x 422.07687pt>
 File: mainstuff/riteBilleder/Liv.png Graphic file (type png)
 <use mainstuff/riteBilleder/Liv.png>
 Package pdftex.def Info: mainstuff/riteBilleder/Liv.png  used on input line 52.
 (pdftex.def)             Requested size: 402.79135pt x 338.76324pt.
 
 
-[71 <./mainstuff/riteBilleder/Jord.png>]
-<mainstuff/riteBilleder/Magi.png, id=997, 501.875pt x 397.485pt>
+[63 <./mainstuff/riteBilleder/Jord.png>]
+<mainstuff/riteBilleder/Magi.png, id=934, 501.875pt x 397.485pt>
 File: mainstuff/riteBilleder/Magi.png Graphic file (type png)
 <use mainstuff/riteBilleder/Magi.png>
 Package pdftex.def Info: mainstuff/riteBilleder/Magi.png  used on input line 60.
 (pdftex.def)             Requested size: 402.79135pt x 319.02556pt.
 
 
-[72 <./mainstuff/riteBilleder/Liv.png>]
-<mainstuff/riteBilleder/Tanke.png, id=1003, 501.875pt x 347.2975pt>
+[64 <./mainstuff/riteBilleder/Liv.png>]
+<mainstuff/riteBilleder/Tanke.png, id=939, 501.875pt x 347.2975pt>
 File: mainstuff/riteBilleder/Tanke.png Graphic file (type png)
 <use mainstuff/riteBilleder/Tanke.png>
 Package pdftex.def Info: mainstuff/riteBilleder/Tanke.png  used on input line 68.
 (pdftex.def)             Requested size: 402.79135pt x 278.74455pt.
 
 
-[73 <./mainstuff/riteBilleder/Magi.png>]
-<mainstuff/riteBilleder/Trække.png, id=1008, 501.875pt x 412.54124pt>
+[65 <./mainstuff/riteBilleder/Magi.png>]
+<mainstuff/riteBilleder/Trække.png, id=944, 501.875pt x 412.54124pt>
 File: mainstuff/riteBilleder/Trække.png Graphic file (type png)
 <use mainstuff/riteBilleder/Trække.png>
 Package pdftex.def Info: mainstuff/riteBilleder/Trække.png  used on input line 76.
 (pdftex.def)             Requested size: 402.79135pt x 331.10986pt.
 
 
-[74 <./mainstuff/riteBilleder/Tanke.png>]
-<mainstuff/riteBilleder/Vand.png, id=1013, 501.875pt x 368.87813pt>
+[66 <./mainstuff/riteBilleder/Tanke.png>]
+<mainstuff/riteBilleder/Vand.png, id=950, 501.875pt x 368.87813pt>
 File: mainstuff/riteBilleder/Vand.png Graphic file (type png)
 <use mainstuff/riteBilleder/Vand.png>
 Package pdftex.def Info: mainstuff/riteBilleder/Vand.png  used on input line 84.
 (pdftex.def)             Requested size: 402.79135pt x 296.06538pt.
 
 
-[75 <./mainstuff/riteBilleder/Trække.png>])
+[67 <./mainstuff/riteBilleder/Trække.png>])
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
 
 
-[76 <./mainstuff/riteBilleder/Vand.png>] 
+[68 <./mainstuff/riteBilleder/Vand.png>] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux)
  ***********
@@ -1972,20 +1858,20 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C7A943F78812E669205480990F7A0C3A;11203.
+(rerunfilecheck)             Checksum: 5470293296D633A9D99DCA4C340CBC7D;10436.
  ) 
 Here is how much of TeX's memory you used:
- 34239 strings out of 468149
- 649887 string characters out of 5431082
- 1076955 words of memory out of 5000000
- 61937 multiletter control sequences out of 15000+600000
- 689560 words of font info for 145 fonts, out of 8000000 for 9000
+ 34200 strings out of 468149
+ 652090 string characters out of 5431082
+ 1076957 words of memory out of 5000000
+ 61913 multiletter control sequences out of 15000+600000
+ 685438 words of font info for 139 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  104i,17n,104p,914b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (77 pages, 13217296 bytes).
+Output written on main.pdf (69 pages, 13196111 bytes).
 PDF statistics:
- 1073 PDF objects out of 1200 (max. 8388607)
- 128 named destinations out of 1000 (max. 500000)
- 787 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1007 PDF objects out of 1200 (max. 8388607)
+ 116 named destinations out of 1000 (max. 500000)
+ 739 words of extra memory for PDF output out of 10000 (max. 10000000)
 
