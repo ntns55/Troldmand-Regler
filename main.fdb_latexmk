@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1754871360.03937 "c:/Users/niels/Documents/GitHub/Troldmand-Regler/main.tex" "main.pdf" "main" 1754871364.20252 2
+["pdflatex"] 1755211685.53989 "c:/Users/niels/Documents/GitHub/Troldmand-Regler/main.tex" "main.pdf" "main" 1755211690.78114 0
   "../Evne-Ordbog/setup/hyphenations.tex" 1754339026 187 25dd9d5834155c431eb54cd73045ea9a ""
   "../Evne-Ordbog/setup/macros.tex" 1754339026 3879 07a835151c43e390c8d73670b3a1cd8c ""
-  "../Evne-Ordbog/setup/preamble.tex" 1754339026 15210 d36b616f6747a330797007c3d3d76f55 ""
+  "../Evne-Ordbog/setup/preamble.tex" 1754871422 15162 943e9a6a8c3db1496b81756c60cdb1c7 ""
   "C:/Users/niels/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1754342902 91245 9ee8cb7f350b2696982aa139ccaecc55 ""
   "C:/Users/niels/AppData/Local/MiKTeX/fonts/tfm/public/stmaryrd/stmary10.tfm" 1754342904 848 f478e0761563bbc369eca609a1741348 ""
   "C:/Users/niels/AppData/Local/MiKTeX/fonts/tfm/public/stmaryrd/stmary5.tfm" 1754342909 848 e1bc58a31b9ed9c3729ffea165acfaac ""
@@ -242,11 +242,11 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
-  "c:/Users/niels/Documents/GitHub/Troldmand-Regler/main.tex" 1754871359 1738 0355172d21cb27f09b1d41845f33b423 ""
-  "main.aux" 1754871363 9632 665638f7765d7bdfd9db1260402b6c3c "pdflatex"
-  "main.out" 1754871363 11203 c7a943f78812e669205480990f7a0c3a "pdflatex"
-  "main.tex" 1754871359 1738 0355172d21cb27f09b1d41845f33b423 ""
-  "main.toc" 1754871363 5339 ef959ef7e1ec01792d9caea6899775d1 "pdflatex"
+  "c:/Users/niels/Documents/GitHub/Troldmand-Regler/main.tex" 1755211683 1734 c5e0b1a7ce8654424db76b516f441811 ""
+  "main.aux" 1755211690 9632 665638f7765d7bdfd9db1260402b6c3c "pdflatex"
+  "main.out" 1755211690 11203 c7a943f78812e669205480990f7a0c3a "pdflatex"
+  "main.tex" 1755211683 1734 c5e0b1a7ce8654424db76b516f441811 ""
+  "main.toc" 1755211690 5339 ef959ef7e1ec01792d9caea6899775d1 "pdflatex"
   "mainstuff/Evner/Ekstra LP Niv. 1.tex" 1754339240 108 9ef8c3848e4c35951c7b0dd22f2e824c ""
   "mainstuff/Evner/Ekstra LP Niv. 2.tex" 1754339240 108 0c23df2cf810c0ab7da888c7b58cafac ""
   "mainstuff/Evner/Læse og skrive Elvisk.tex" 1754339240 312 6cb09367745030e76b5108d35f82b2ae ""
