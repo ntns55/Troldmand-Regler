@@ -1,83 +1,76 @@
 \babel@toc {danish}{}\relax 
-\contentsline {chapter}{Indledning}{5}{chapter*.2}%
-\contentsline {chapter}{Niveau 1}{6}{chapter*.3}%
-\contentsline {section}{Evne beskrivelse}{6}{table.caption.4}%
-\contentsline {subsection}{Læse og skrive Elvisk}{6}{subsection*.5}%
-\contentsline {subsection}{Læse og skrive Magisk}{6}{subsection*.7}%
-\contentsline {subsection}{Magiske Studier}{7}{figure.caption.8}%
-\contentsline {subsection}{Magiske Studier}{7}{figure.caption.8}%
-\contentsline {chapter}{Niveau 2}{8}{chapter*.9}%
-\contentsline {section}{Evne beskrivelse}{8}{table.caption.10}%
-\contentsline {subsection}{Ekstra Mana Niv. 1}{8}{section*.11}%
-\contentsline {subsection}{Opsug Manakrystal}{8}{section*.11}%
-\contentsline {subsection}{Troldmandsmagi Niv. 2}{8}{section*.11}%
-\contentsline {chapter}{Niveau 3}{10}{chapter*.12}%
-\contentsline {section}{Evne beskrivelse}{10}{table.caption.13}%
-\contentsline {subsection}{Ekstra Mana Niv. 2}{10}{section*.14}%
-\contentsline {subsection}{Magisk Fælde}{10}{section*.14}%
-\contentsline {subsection}{Troldmandsmagi Niv. 3}{10}{section*.14}%
-\contentsline {chapter}{Niveau 4}{12}{chapter*.15}%
-\contentsline {section}{Evne beskrivelse for Ærkemager}{13}{section*.16}%
-\contentsline {subsection}{Ekstra Mana Niv. 3}{13}{section*.16}%
-\contentsline {subsection}{Lav Manakrystal}{13}{section*.16}%
-\contentsline {subsection}{Troldmandsmagi Niv. 4}{13}{section*.16}%
-\contentsline {subsection}{Ærkemagi}{13}{section*.16}%
-\contentsline {section}{Evne beskrivelse for Krigsmager}{14}{section*.16}%
-\contentsline {subsection}{Brug af Læderrustning/ Ringbrynje}{14}{section*.17}%
-\contentsline {subsection}{Brug af Våben}{14}{section*.17}%
-\contentsline {subsection}{Ekstra LP Niv. 1}{14}{section*.17}%
-\contentsline {subsection}{Ekstra LP Niv. 2}{14}{section*.17}%
-\contentsline {subsection}{Magiens Hylster}{14}{section*.17}%
-\contentsline {subsection}{Magisk Beskyttelse}{15}{section*.17}%
-\contentsline {chapter}{Generelle evner}{16}{chapter*.18}%
-\contentsline {section}{Evne beskrivelse}{16}{table.caption.19}%
-\contentsline {subsection}{6. sans Niv. 1}{16}{section*.20}%
-\contentsline {subsection}{6. sans Niv. 2}{17}{section*.20}%
-\contentsline {subsection}{Bonk}{17}{section*.20}%
-\contentsline {subsection}{Bære person}{17}{section*.20}%
-\contentsline {subsection}{Førstehjælp}{17}{section*.20}%
-\contentsline {subsection}{Lave Artefakter}{18}{section*.20}%
-\contentsline {subsection}{Læse og skrive}{21}{section*.20}%
-\contentsline {subsection}{Minearbejder}{21}{section*.20}%
-\contentsline {subsection}{Påfør gift}{21}{section*.20}%
-\contentsline {subsection}{Slagsbror Niv. 1}{22}{section*.20}%
-\contentsline {subsection}{Slagsbror Niv. 2}{22}{section*.20}%
-\contentsline {subsection}{Slagsbror Niv. 2}{22}{section*.20}%
-\contentsline {subsection}{Speciale}{22}{section*.20}%
-\contentsline {subsection}{Universets Centrum}{23}{section*.20}%
-\contentsline {subsection}{Urtesamler}{23}{section*.20}%
-\contentsline {chapter}{Magi}{24}{chapter*.21}%
-\contentsline {section}{Generelle regler om Magi}{24}{section*.22}%
-\contentsline {subsection}{Magiens elve bud}{24}{subsection*.23}%
-\contentsline {subsection}{At kaste magi}{26}{subsection*.24}%
-\contentsline {chapter}{Magi som Troldmand}{27}{chapter*.25}%
-\contentsline {section}{Niveauerne}{27}{section*.26}%
-\contentsline {section}{Magibog og Riter}{27}{section*.26}%
-\contentsline {section}{Mana}{28}{section*.26}%
-\contentsline {chapter}{Dæmonolog}{29}{chapter*.27}%
-\contentsline {section}{Dedikeret mana}{29}{section*.28}%
-\contentsline {section}{Primær magi}{30}{table.caption.29}%
-\contentsline {section}{Sælg din sjæl}{31}{table.caption.29}%
-\contentsline {section}{Dæmonisk hævn}{33}{table.caption.29}%
-\contentsline {section}{Korruption}{34}{table.caption.29}%
-\contentsline {section}{Falden Engel}{36}{table.caption.29}%
-\contentsline {chapter}{Elementalist}{38}{chapter*.30}%
-\contentsline {section}{Primær magi}{38}{table.caption.31}%
-\contentsline {section}{Vand}{39}{table.caption.31}%
-\contentsline {section}{Ild}{40}{table.caption.31}%
-\contentsline {section}{Jord}{41}{table.caption.31}%
-\contentsline {section}{Vind}{43}{table.caption.31}%
-\contentsline {chapter}{Mentalist}{44}{chapter*.32}%
-\contentsline {section}{Primær magi}{44}{table.caption.33}%
-\contentsline {section}{Offensiv}{45}{table.caption.33}%
-\contentsline {section}{Defensiv}{47}{table.caption.33}%
-\contentsline {section}{Passiv}{48}{table.caption.33}%
-\contentsline {section}{Kontrol}{49}{table.caption.33}%
-\contentsline {chapter}{Nekromantiker}{51}{chapter*.34}%
-\contentsline {section}{Sygdom}{51}{table.caption.35}%
-\contentsline {section}{Primær magi}{51}{table.caption.35}%
-\contentsline {section}{Zombie}{53}{table.caption.35}%
-\contentsline {section}{Sygdommens Mørke}{54}{table.caption.35}%
-\contentsline {section}{Sjæl}{55}{table.caption.35}%
-\contentsline {section}{Forrådnelse}{56}{table.caption.35}%
-\contentsline {chapter}{Liste af Riter}{58}{chapter*.36}%
+\contentsline {chapter}{\numberline {1}Indledning}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Niveau 1}{6}{chapter.2}%
+\contentsline {section}{Evne beskrivelse}{6}{section*.3}%
+\contentsline {subsection}{Læse og skrive Elvisk}{6}{subsection*.4}%
+\contentsline {subsection}{Læse og skrive Magisk}{7}{subsection*.6}%
+\contentsline {subsection}{Magiske Studier}{7}{subsection*.8}%
+\contentsline {subsection}{Troldmandsmagi Niv. 1}{7}{subsection*.9}%
+\contentsline {chapter}{\numberline {3}Niveau 2}{8}{chapter.3}%
+\contentsline {section}{Evne beskrivelse}{8}{section*.11}%
+\contentsline {subsection}{Ekstra Mana Niv. 1}{8}{subsection*.12}%
+\contentsline {subsection}{Opsug Manakrystal}{8}{subsection*.13}%
+\contentsline {subsection}{Troldmandsmagi Niv. 2}{9}{subsection*.14}%
+\contentsline {chapter}{\numberline {4}Niveau 3}{10}{chapter.4}%
+\contentsline {section}{Evne beskrivelse}{10}{table.caption.15}%
+\contentsline {subsection}{Ekstra Mana Niv. 2}{10}{section*.16}%
+\contentsline {subsection}{Magisk Fælde}{10}{subsection*.17}%
+\contentsline {subsection}{Troldmandsmagi Niv. 3}{11}{subsection*.18}%
+\contentsline {chapter}{\numberline {5}Niveau 4}{12}{chapter.5}%
+\contentsline {section}{Evne beskrivelse}{12}{table.caption.19}%
+\contentsline {subsection}{Ekstra Mana Niv. 3}{12}{section*.20}%
+\contentsline {subsection}{Lav Manakrystal}{13}{subsection*.21}%
+\contentsline {subsection}{Troldmandsmagi Niv. 4}{13}{subsection*.22}%
+\contentsline {subsection}{Ærkemagi}{13}{subsection*.23}%
+\contentsline {chapter}{Generelle evner}{14}{chapter*.24}%
+\contentsline {section}{Evne beskrivelse}{14}{table.caption.25}%
+\contentsline {subsection}{6. sans Niv. 1}{14}{subsection*.26}%
+\contentsline {subsection}{6. sans Niv. 2}{15}{subsection*.27}%
+\contentsline {subsection}{Bonk}{15}{subsection*.28}%
+\contentsline {subsection}{Bære person}{15}{subsection*.29}%
+\contentsline {subsection}{Førstehjælp}{15}{subsection*.30}%
+\contentsline {subsection}{Lave Artefakter}{16}{subsection*.31}%
+\contentsline {subsection}{Læse og skrive}{19}{subsection*.32}%
+\contentsline {subsection}{Minearbejder}{19}{subsection*.33}%
+\contentsline {subsection}{Påfør gift}{19}{subsection*.34}%
+\contentsline {subsection}{Slagsbror Niv. 1}{20}{subsection*.35}%
+\contentsline {subsection}{Slagsbror Niv. 2}{20}{subsection*.36}%
+\contentsline {subsection}{Slagsbror Niv. 2}{20}{subsection*.37}%
+\contentsline {subsection}{Speciale}{20}{subsection*.38}%
+\contentsline {subsection}{Universets Centrum}{21}{subsection*.39}%
+\contentsline {subsection}{Urtesamler}{21}{subsection*.40}%
+\contentsline {chapter}{\numberline {6}Magi}{22}{chapter.6}%
+\contentsline {section}{Generelle regler om Magi}{22}{section*.41}%
+\contentsline {subsection}{Magiens elve bud}{22}{subsection*.42}%
+\contentsline {subsection}{At kaste magi}{24}{subsection*.43}%
+\contentsline {chapter}{\numberline {7}Magi som Troldmand}{25}{chapter.7}%
+\contentsline {section}{Niveauerne}{25}{section*.44}%
+\contentsline {section}{Magibog og Riter}{26}{section*.45}%
+\contentsline {section}{Mana}{26}{section*.46}%
+\contentsline {chapter}{Dæmonolog}{27}{chapter*.47}%
+\contentsline {section}{Dedikeret mana}{27}{section*.48}%
+\contentsline {section}{Primær magi}{28}{table.caption.49}%
+\contentsline {section}{Sælg din sjæl}{29}{table.caption.49}%
+\contentsline {section}{Dæmonisk hævn}{31}{table.caption.49}%
+\contentsline {section}{Korruption}{32}{table.caption.49}%
+\contentsline {section}{Falden Engel}{34}{table.caption.49}%
+\contentsline {chapter}{Elementalist}{36}{chapter*.50}%
+\contentsline {section}{Primær magi}{36}{table.caption.51}%
+\contentsline {section}{Vand}{37}{table.caption.51}%
+\contentsline {section}{Ild}{38}{table.caption.51}%
+\contentsline {section}{Jord}{39}{table.caption.51}%
+\contentsline {section}{Vind}{41}{table.caption.51}%
+\contentsline {chapter}{Mentalist}{42}{chapter*.52}%
+\contentsline {section}{Primær magi}{42}{table.caption.53}%
+\contentsline {section}{Offensiv}{43}{table.caption.53}%
+\contentsline {section}{Defensiv}{45}{table.caption.53}%
+\contentsline {section}{Passiv}{46}{table.caption.53}%
+\contentsline {section}{Kontrol}{47}{table.caption.53}%
+\contentsline {chapter}{Nekromantiker}{49}{chapter*.54}%
+\contentsline {section}{Sygdom}{49}{table.caption.55}%
+\contentsline {section}{Primær magi}{49}{table.caption.55}%
+\contentsline {section}{Zombie}{51}{table.caption.55}%
+\contentsline {section}{Sygdommens Mørke}{52}{table.caption.55}%
+\contentsline {section}{Sjæl}{53}{table.caption.55}%
+\contentsline {section}{Forrådnelse}{54}{table.caption.55}%
+\contentsline {chapter}{Liste af Riter}{56}{chapter*.56}%
