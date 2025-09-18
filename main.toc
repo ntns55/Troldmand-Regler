@@ -19,7 +19,7 @@
 \contentsline {chapter}{\numberline {5}Niveau 4}{12}{chapter.5}%
 \contentsline {section}{Evne beskrivelse}{12}{table.caption.19}%
 \contentsline {subsection}{Ekstra Mana Niv. 3}{12}{section*.20}%
-\contentsline {subsection}{Lav Manakrystal}{13}{subsection*.21}%
+\contentsline {subsection}{Lav Manakrystal}{12}{subsection*.21}%
 \contentsline {subsection}{Troldmandsmagi Niv. 4}{13}{subsection*.22}%
 \contentsline {subsection}{Ærkemagi}{13}{subsection*.23}%
 \contentsline {chapter}{Generelle evner}{14}{chapter*.24}%
@@ -47,30 +47,30 @@
 \contentsline {section}{Niveauerne}{25}{section*.44}%
 \contentsline {section}{Magibog og Riter}{26}{section*.45}%
 \contentsline {section}{Mana}{26}{section*.46}%
-\contentsline {chapter}{Dæmonolog}{27}{chapter*.47}%
-\contentsline {section}{Dedikeret mana}{27}{section*.48}%
-\contentsline {section}{Primær magi}{28}{table.caption.49}%
-\contentsline {section}{Sælg din sjæl}{29}{table.caption.49}%
-\contentsline {section}{Dæmonisk hævn}{31}{table.caption.49}%
-\contentsline {section}{Korruption}{32}{table.caption.49}%
-\contentsline {section}{Falden Engel}{34}{table.caption.49}%
-\contentsline {chapter}{Elementalist}{36}{chapter*.50}%
-\contentsline {section}{Primær magi}{36}{table.caption.51}%
-\contentsline {section}{Vand}{37}{table.caption.51}%
-\contentsline {section}{Ild}{38}{table.caption.51}%
-\contentsline {section}{Jord}{39}{table.caption.51}%
-\contentsline {section}{Vind}{41}{table.caption.51}%
-\contentsline {chapter}{Mentalist}{42}{chapter*.52}%
-\contentsline {section}{Primær magi}{42}{table.caption.53}%
-\contentsline {section}{Offensiv}{43}{table.caption.53}%
-\contentsline {section}{Defensiv}{45}{table.caption.53}%
-\contentsline {section}{Passiv}{46}{table.caption.53}%
-\contentsline {section}{Kontrol}{47}{table.caption.53}%
-\contentsline {chapter}{Nekromantiker}{49}{chapter*.54}%
-\contentsline {section}{Sygdom}{49}{table.caption.55}%
-\contentsline {section}{Primær magi}{49}{table.caption.55}%
-\contentsline {section}{Zombie}{51}{table.caption.55}%
-\contentsline {section}{Sygdommens Mørke}{52}{table.caption.55}%
-\contentsline {section}{Sjæl}{53}{table.caption.55}%
-\contentsline {section}{Forrådnelse}{54}{table.caption.55}%
-\contentsline {chapter}{Liste af Riter}{56}{chapter*.56}%
+\contentsline {chapter}{\numberline {8}Dæmonolog}{27}{chapter.8}%
+\contentsline {section}{Dedikeret mana}{27}{section*.47}%
+\contentsline {section}{Primær magi}{28}{section*.49}%
+\contentsline {section}{Sælg din sjæl}{29}{section*.50}%
+\contentsline {section}{Dæmonisk hævn}{31}{section*.51}%
+\contentsline {section}{Korruption}{32}{section*.52}%
+\contentsline {section}{Falden Engel}{34}{section*.53}%
+\contentsline {chapter}{\numberline {9}Elementalist}{36}{chapter.9}%
+\contentsline {section}{Primær magi}{36}{section*.55}%
+\contentsline {section}{Vand}{37}{section*.56}%
+\contentsline {section}{Ild}{38}{section*.57}%
+\contentsline {section}{Jord}{39}{section*.58}%
+\contentsline {section}{Vind}{41}{section*.59}%
+\contentsline {chapter}{\numberline {10}Mentalist}{42}{chapter.10}%
+\contentsline {section}{Primær magi}{42}{section*.61}%
+\contentsline {section}{Offensiv}{43}{section*.62}%
+\contentsline {section}{Defensiv}{45}{section*.63}%
+\contentsline {section}{Passiv}{46}{section*.64}%
+\contentsline {section}{Kontrol}{47}{section*.65}%
+\contentsline {chapter}{\numberline {11}Nekromantiker}{49}{chapter.11}%
+\contentsline {section}{Sygdom}{49}{section*.67}%
+\contentsline {section}{Primær magi}{49}{section*.68}%
+\contentsline {section}{Zombie}{51}{section*.69}%
+\contentsline {section}{Sygdommens Mørke}{52}{section*.70}%
+\contentsline {section}{Sjæl}{53}{section*.71}%
+\contentsline {section}{Forrådnelse}{54}{section*.72}%
+\contentsline {chapter}{Liste af Riter}{56}{chapter*.73}%
