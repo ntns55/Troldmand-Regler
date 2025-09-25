@@ -9,7 +9,7 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
         Niveau & Primær magi & Vand & Ild & Jord & Vind \\\hline
         
         1 & 
-        - & 
+        Magiens Sværd & 
         Isslag & 
         Gnist & 
         Mudder maske  & 
@@ -18,14 +18,14 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
         2 & 
         Magisk beskyttelse & 
         Hjerne frys & 
-        Lyn & 
+        Flammenæve& 
         Jordens Rustning & 
         Tornado\\\hline
         
         3 & 
         Ophæv magi & 
         Skoldning & 
-        Flammehav & 
+        Lyn & 
         Jordens barrier & 
         Vindslid\\\hline
         
@@ -40,7 +40,11 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 
 \section{Primær magi}
 
-
+\begin{primærMagi*}[Magiens Sværd]
+\textbf{Type:} Passiv\\
+\textbf{Kategori:} -\\
+\textbf{Effekt:} Elementalisten kan bruge alle våben der ikke kræver special ansøgning. Dog ikke skjold.\\
+\end{primærMagi*}
 
 \begin{primærMagi*}[Magisk Beskyttelse]
 \textbf{Type:} Positiv magi\\
@@ -63,7 +67,6 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 \textbf{Kategori:} Passiv\\
 \textbf{Effekt:} Når du dræber en person vil du genvinde 2 mana. Dette kan ikke overgå din maksimale mana. Du behøver ikke dræbe en person med en magi for at få denne effekt.
 \end{primærMagi*}
-
 
 \section{Vand}
 \begin{vand*}[Isslag]
@@ -103,13 +106,22 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 \section{Ild}
 \begin{ild*}[Gnist]
 \textbf{Type:} Øjeblikkeligmagi\\
-\textbf{Kategori:} Berøringsmagi\\
+\textbf{Kategori:} Kastemagi\\\todo{Ændret til kastemagi}
 \textbf{Rite:} Give, Ild, Trække, Ild\\
-\textbf{Effekt:} Din hånd blusser op i flammer og tillader dig at efterlade dit mærke i din modstander.\\ 
+\textbf{Ingredienser:} En rød skumbold eller rispose.\\
+\textbf{Effekt:} Din hånd blusser op i flammer og tillader dig kaste dem efter din modstander.\\ 
 \textbf{Kommando:} "Gnist, 2 i skade"
 \end{ild*}
 
-\begin{ild*}[Lyn]
+\begin{ild*}[Flammenæve]\todo{Lavet til niveau 2}
+\textbf{Type:} Øjeblikkeligmagi\\
+\textbf{Kategori:} Berøringsmagi\\
+\textbf{Rite:} Give, Magi, Give, Ild\\
+\textbf{Effekt:} Din næve bliver flydt med ild og du brænder dine fjender i stykker..\\
+\textbf{Kommando:} "Flammenæve, 4 i skade"
+\end{ild*}
+
+\begin{ild*}[Lyn]\todo{Flyttet til niveau 3}
 \textbf{Type:} Øjeblikkeligmagi\\
 \textbf{Kategori:} Pegemagi\\
 \textbf{Rite:} Trække, Magi, Trække, Ild\\
@@ -131,15 +143,15 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 \textbf{Rite:} Magi, Trække, Ild, Dæmon, Ild\\
 \textbf{Ingredienser:} En rød pose eller bold\\
 \textbf{Effekt:} Du skaber en brændende kugle, der vil efterlade dine fjender med et stort hul i kroppen.\\
-\textbf{Kommando:} "Ildkugle 15 i skade"
+\textbf{Kommando:} "Ildkugle 10 i skade"
 \end{ild*}
 
 \section{Jord}
 \begin{jord*}[Mudder maske]
 \textbf{Type:} Positiv magi\\
-\textbf{Kategori:} Berøringsmagi\\
+\textbf{Kategori:} Berøringsmagi - Kun troldmanden.\\\todo{Ændret til at kun kunne blive kastet på elementalisten.}
 \textbf{Rite:} Jord, Liv, Magi, Liv, Give, Jord, Trække, Død. \\
-\textbf{Effekt:} Du beskytter dine mest sårbare dele med størknet mudder. Du er immun overfor skade fra den næste pil, medmindre denne er et bagholdsangreb.\\
+\textbf{Effekt:} Du beskytter dine mest sårbare dele med størknet mudder. Du er immun overfor den næste pil, medmindre denne er et bagholdsangreb.\\
 \textbf{Kommando:} Forklar grundigt effekten til personen.
 \end{jord*}
 
@@ -159,11 +171,9 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 \textbf{Kommando:} "Jordens skjold"
 \end{jord*}
 
-\begin{jord*}[Lerform]
-\textbf{Type:} Positiv magi\\
-\textbf{Kategori:} Kun Troldmanden\\
-\textbf{Rite:} Jord, Trække, Bevægelse, Død\\
-\textbf{Effekt:} Du drager med denne magi mineralerne i jorden frem og danner et hårdt lag af ler over din krop. Du er ude af stand til at foretage nogle handlinger eller bevæge dig, men til gengæld er du også immun over alt fysisk skade, inklusiv pistolskud. Du kan stadig blive ramt af magier, undtagen magier der tvinger dig til at bevæge eller flytte dig. Så længe magien er aktiv skal du krydse dine hænder foran dit bryst, når denne stilling brydes eller efter der er gået 10 min ophæves effekten alt efter hvad der sker først.
+\begin{jord*}[Metalisk Mana]
+\textbf{Type:} Passiv\\
+\textbf{Effekt:} Du halvere hvor meget maks mana du har, og prisen for dine magier.
 \end{jord*}
 
 \section{Vind}
@@ -194,6 +204,6 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 \begin{vind*}[Tordenskrald]
 \textbf{Type:} -\\
 \textbf{Kategori:} Passiv\\
-Når du bruger vindstød har du mulighed for at denne også giver 3 i skade. Hvis du gør dette vil vindstød koste 2 ekstra mana. Vindstød vil stadig vælte. Du kan stadig kaste vindstød normalt. Se den nye kommando nedenfor.\\
-\textbf{Kommando:} "Tordenskrald - 3 i skade, vælt."
+Når du bruger vindstød har du mulighed for at denne også giver 3 i skade. Hvis du gør dette vil vindstød koste 2 ekstra mana. Du kan stadig kaste vindstød normalt. Se den nye kommando nedenfor.\\
+\textbf{Kommando:} "Tordenskrald - 3 i skade."
 \end{vind*}
