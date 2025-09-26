@@ -72,8 +72,7 @@ En person kan godt være påvirket af flere sygdomme på en gang. Hvis personen 
 \textbf{Type:} -\\
 \textbf{Kategori:} Områdemagi \\
 \textbf{Rite:} Magi, Give, Død, Trække, Liv \\
-\textbf{Effekt:} Med denne magi laver troldmanden en magisk cirkel som skal tegnes op med gryn. Cirklen må have
-En radius på op til 2,5 meter. Alle der træder ind eller ud af cirklen vil tage 4 i skade. Kasteren skal stå i Cirklen før den har effekt. Hvis en person dør til dette skjold, vil de blive gjort til en zombie, som om Nekromantikeren havde kastet Skab Zombie på dem. Skjoldet kan ophæves med ophæv magi. Skjoldet varer Maksimum 10 minutter, eller til kasteren forlader det.\\ 
+\textbf{Effekt:} Med denne magi laver troldmanden en magisk cirkel som skal tegnes op med gryn. Cirklen må have en radius på op til 2,5 meter. Alle der træder ind eller ud af cirklen vil tage 4 i skade. Kasteren skal stå i Cirklen før den har effekt. Hvis en person dør til dette skjold, vil de blive gjort til en zombie, som om Nekromantikeren havde kastet Skab Zombie på dem. Skjoldet kan ophæves med ophæv magi. Skjoldet varer Maksimum 10 minutter, eller til kasteren forlader det.\\ 
 \textbf{Kommando:} Døds cirkel 4 i skade (Hvis personen dør, informer dem om zombie reglerne.)
 \end{primærMagi*}
 
@@ -107,15 +106,23 @@ magien Helbred zombie bliver brugt.\\
 \textbf{Kommando:} Forklar effekten grundigt.
 \end{zombie*}
 
-\begin{zombie*}[Skab Døds Ridder]
-\textbf{Type:} Negativmagi\\
-\textbf{Kategori:} Berøringsmagi\\
-\textbf{Rite:} Trække, Liv, Give, Død, Give, Tanke\\
-\textbf{Effekt:} Med denne magi skaber nekromantikeren en døds ridder. Døds ridderen vil have sin egen vilje, men skal adlyde nekromantikeren. Rideren er immun overfor alle magier, inklusiv dem fra nekromantikeren, dette inkludere ophæv magi. De tager dobbelt skade fra hellige våben. De kan ikke genvinde LP fra magier eller fra naturlig helbredelse. Denne magi varer til døds ridderen dør. Døds Ridderen har 15 LP og 15 NK.\\
-Derudover kan de kaste Helbred Zombie 2 gange. Dette har samme effekt og rite som nekromantikerens "Helbred Zombie", men der behøves ikke nogen magibog.
-\textbf{Kommando:} Forklar effekten til begge personer.\\
-
+\todo{Fjernet Skab Døds Ridder og erstattet det med Dødens Herrer.}
+\begin{zombie*}[Dødens Herrer]
+\textbf{Type:} Passiv\\
+\textbf{Kategori:} Passiv\\
+\textbf{Ingredienser:} Et stykke papir hvor der står effekten af din stærkeste sygdom, og hvad sygdoms reglerne er.\\
+\textbf{Effekt:} Zombier du laver vil også sprede den stærkeste sygdom du kan kaste når de dræber nogen eller bliver gennemsøgt. Zombierne selv vil også blive påvirket af den stærkeste sygdom du kan kaste \underline{efter} de bliver genoplivet.
+\textbf{Note:} For at dine zombier kan huske hvad de kan og hvad din sygdom gør foreslår vi at du lave en side med din stærkeste sygdom, dens effekt og hvordan sygdomme fungere. Hver zombie burde have minimum 3 så de kan give ud når de bliver gennemsøgt, og når de dræber nogen. 
 \end{zombie*}
+
+%\begin{zombie*}[Skab Døds Ridder]
+%\textbf{Type:} Negativmagi\\
+%\textbf{Kategori:} Berøringsmagi\\
+%\textbf{Rite:} Trække, Liv, Give, Død, Give, Tanke\\
+%\textbf{Effekt:} Med denne magi skaber nekromantikeren en døds ridder. Døds ridderen vil have sin egen vilje, men skal adlyde nekromantikeren. Rideren er immun overfor alle magier, inklusiv dem fra nekromantikeren, dette inkludere ophæv magi. De tager dobbelt skade fra hellige våben. De kan ikke genvinde LP fra magier eller fra naturlig helbredelse. Denne magi varer til døds ridderen dør. Døds Ridderen har 15 LP og 15 NK.\\
+%Derudover kan de kaste Helbred Zombie 2 gange. Dette har samme effekt og rite som nekromantikerens "Helbred Zombie", men der behøves ikke nogen magibog.
+%\textbf{Kommando:} Forklar effekten til begge personer.\\
+%\end{zombie*}
 
 \section{Sygdommens Mørke}
 
@@ -172,16 +179,17 @@ Derudover kan de kaste Helbred Zombie 2 gange. Dette har samme effekt og rite so
 \textbf{Type:} Øjeblikkeligmagi\\
 \textbf{Kategori:} Pegemagi\\
 \textbf{Rite:} Trække, Liv, Give, Dæmon, Ild\\
-\textbf{Effekt:} Nekromantikeren dylder sin hånd med ren død. Offeret vil tage 3 i skade.\\
+\textbf{Effekt:} Nekromantikeren hylder sin hånd med ren død. Offeret vil tage 3 i skade.\\
 \textbf{Kommando:} Sjælens Pil 3 i skade.\\
 \end{nSjæl*}
 
-\begin{nSjæl*}[Sjælens energi]
+\begin{nSjæl*}[Dræn liv]
 \textbf{Type:} Øjeblikkeligmagi\\
-\textbf{Kategori:} Berøringsmagi\\
-\textbf{Rite:} Trække, Liv, [Riten til den magi du vil kaste], Magi\\
-\textbf{Effekt:} Du kan bruge LP som mana enten fra dig selv eller fra et villigt subjekt. For at bruge denne magi skal riterne trække og liv sættes foran den originale rite og riten magi skal sættes efter. Der kan ikke kastes niveau 4 magier med denne magi.
-\end{nSjæl*}
+\textbf{Kategori:} Berøringsmagi\
+\textbf{Rite:} Trække, Liv, Give, Død, Give, Liv\\
+\textbf{Effekt:} Et subjekt tager 5 skade. Nekromantikeren genvinder 5 liv.\\
+\textbf{Kommando:} ”Dræn liv, 5 skade”
+\end{nSjæl*}\todo{Gjort til Sjæl og skal nok have et buff for et niveau 4 magi.}
 
 \section{Forrådnelse}
 
@@ -194,16 +202,16 @@ Derudover kan de kaste Helbred Zombie 2 gange. Dette har samme effekt og rite so
 \begin{død*}[Sjælens batteri]
 \textbf{Type:} Passiv \\
 \textbf{Kategori:} -\\
-\textbf{Effekt:} Når nekromantikeren gennemleder et lig for penge vil de også automatisk genvinde 2 Mana. Det tager 30 sekunder at gennemlede en person.\\ 
+\textbf{Effekt:} Når nekromantikeren gennemleder et lig for penge vil de også automatisk genvinde 1 Mana. Det tager 30 sekunder at gennemlede en person. Den samme person kan ikke gennemledes flere gange.\\
 \end{død*}
+\todo{Ændret til at 1 mana og sat at den samme person ikke kan gennemledes mere end 1 gang.}
 
-\begin{død*}[Dræn liv]
-\textbf{Type:} Øjeblikkeligmagi\\
-\textbf{Kategori:} Berøringsmagi\
-\textbf{Rite:} Trække, Liv, Give, Død, Give, Liv\\
-\textbf{Effekt:} Et subjekt tager 5 skade. Nekromantikeren genvinder 5 liv.\\
-\textbf{Kommando:} ”Dræn liv, 5 skade”
-\end{død*}
+\begin{død*}[Sjælens energi]
+\textbf{Type:} Passiv\\
+\textbf{Kategori:} Berøringsmagi\\
+\textbf{Rite:} Trække, Liv, [Riten til den magi du vil kaste], Magi\\
+\textbf{Effekt:} Du kan bruge LP som mana enten fra dig selv eller fra et villigt subjekt. For at bruge denne magi skal riterne trække og liv sættes foran den originale rite og riten magi skal sættes efter. Der kan ikke kastes niveau 4 magier med denne magi.
+\end{død*}\todo{Gjort til passiv og skiftet sti, så forrådnelse er ren passive magier.}
 
 \begin{død*}[Dødens genopstand]
 \textbf{Type:} - \\

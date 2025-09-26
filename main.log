@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  26 SEP 2025 09:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  26 SEP 2025 12:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1538,6 +1538,8 @@ Overfull \hbox (10.77075pt too wide) in paragraph at lines 15--47
 [31]
 
 [32]
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 157.
+
 
 [33]
 
@@ -1600,8 +1602,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--47
 ]
 
 [38]
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 106.
-
 
 [39]
 
@@ -1750,47 +1750,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--61
 
 
 [52]
-Underfull \hbox (badness 10000) in paragraph at lines 82--85
+Underfull \hbox (badness 10000) in paragraph at lines 81--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--92
+Underfull \hbox (badness 10000) in paragraph at lines 85--91
 
  []
 
 
 
 [53]
-Underfull \hbox (badness 10000) in paragraph at lines 111--117
-
- []
-
-
 
 [54]
 
 [55]
-Underfull \hbox (badness 10000) in paragraph at lines 172--177
+Underfull \hbox (badness 10000) in paragraph at lines 179--184
 
  []
 
 
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 195--198
+Underfull \hbox (badness 10000) in paragraph at lines 203--206
 
  []
 
 )) (../Evne-Ordbog/Liste af Riter.tex
 
 [57]
-<../Evne-Ordbog/riteBilleder/Bevægelse.png, id=968, 501.875pt x 421.07312pt>
+<../Evne-Ordbog/riteBilleder/Bevægelse.png, id=974, 501.875pt x 421.07312pt>
 File: ../Evne-Ordbog/riteBilleder/Bevægelse.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Bevægelse.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Bevægelse.png  used on input line 4.
 (pdftex.def)             Requested size: 402.79135pt x 337.95764pt.
-<../Evne-Ordbog/riteBilleder/Dæmon.png, id=969, 501.875pt x 445.665pt>
+<../Evne-Ordbog/riteBilleder/Dæmon.png, id=975, 501.875pt x 445.665pt>
 File: ../Evne-Ordbog/riteBilleder/Dæmon.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Dæmon.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Dæmon.png  used on input line 12.
@@ -1801,7 +1796,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Dæmon.png  used on input l
 
 
  <../Evne-Ordbog/riteBilleder/Bevægelse.png>]
-<../Evne-Ordbog/riteBilleder/Død.png, id=974, 501.875pt x 339.76938pt>
+<../Evne-Ordbog/riteBilleder/Død.png, id=980, 501.875pt x 339.76938pt>
 File: ../Evne-Ordbog/riteBilleder/Død.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Død.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Død.png  used on input line 20.
@@ -1809,7 +1804,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Død.png  used on input lin
 
 
 [59 <../Evne-Ordbog/riteBilleder/Dæmon.png>]
-<../Evne-Ordbog/riteBilleder/Give.png, id=979, 501.875pt x 328.72812pt>
+<../Evne-Ordbog/riteBilleder/Give.png, id=985, 501.875pt x 328.72812pt>
 File: ../Evne-Ordbog/riteBilleder/Give.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Give.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Give.png  used on input line 28.
@@ -1817,7 +1812,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Give.png  used on input lin
 
 
 [60 <../Evne-Ordbog/riteBilleder/Død.png>]
-<../Evne-Ordbog/riteBilleder/Ild.png, id=985, 501.875pt x 334.75063pt>
+<../Evne-Ordbog/riteBilleder/Ild.png, id=991, 501.875pt x 334.75063pt>
 File: ../Evne-Ordbog/riteBilleder/Ild.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Ild.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Ild.png  used on input line 36.
@@ -1825,7 +1820,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Ild.png  used on input line
 
 
 [61 <../Evne-Ordbog/riteBilleder/Give.png>]
-<../Evne-Ordbog/riteBilleder/Jord.png, id=990, 501.875pt x 454.69875pt>
+<../Evne-Ordbog/riteBilleder/Jord.png, id=996, 501.875pt x 454.69875pt>
 File: ../Evne-Ordbog/riteBilleder/Jord.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Jord.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Jord.png  used on input line 44.
@@ -1833,7 +1828,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Jord.png  used on input lin
 
 
 [62 <../Evne-Ordbog/riteBilleder/Ild.png>]
-<../Evne-Ordbog/riteBilleder/Liv.png, id=995, 501.875pt x 422.07687pt>
+<../Evne-Ordbog/riteBilleder/Liv.png, id=1001, 501.875pt x 422.07687pt>
 File: ../Evne-Ordbog/riteBilleder/Liv.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Liv.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Liv.png  used on input line 52.
@@ -1841,7 +1836,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Liv.png  used on input line
 
 
 [63 <../Evne-Ordbog/riteBilleder/Jord.png>]
-<../Evne-Ordbog/riteBilleder/Magi.png, id=1000, 501.875pt x 397.485pt>
+<../Evne-Ordbog/riteBilleder/Magi.png, id=1006, 501.875pt x 397.485pt>
 File: ../Evne-Ordbog/riteBilleder/Magi.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Magi.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Magi.png  used on input line 60.
@@ -1849,7 +1844,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Magi.png  used on input lin
 
 
 [64 <../Evne-Ordbog/riteBilleder/Liv.png>]
-<../Evne-Ordbog/riteBilleder/Tanke.png, id=1005, 501.875pt x 347.2975pt>
+<../Evne-Ordbog/riteBilleder/Tanke.png, id=1011, 501.875pt x 347.2975pt>
 File: ../Evne-Ordbog/riteBilleder/Tanke.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Tanke.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Tanke.png  used on input line 68.
@@ -1857,7 +1852,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Tanke.png  used on input li
 
 
 [65 <../Evne-Ordbog/riteBilleder/Magi.png>]
-<../Evne-Ordbog/riteBilleder/Trække.png, id=1010, 501.875pt x 412.54124pt>
+<../Evne-Ordbog/riteBilleder/Trække.png, id=1016, 501.875pt x 412.54124pt>
 File: ../Evne-Ordbog/riteBilleder/Trække.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Trække.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Trække.png  used on input line 76.
@@ -1865,7 +1860,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Trække.png  used on input 
 
 
 [66 <../Evne-Ordbog/riteBilleder/Tanke.png>]
-<../Evne-Ordbog/riteBilleder/Vand.png, id=1016, 501.875pt x 368.87813pt>
+<../Evne-Ordbog/riteBilleder/Vand.png, id=1022, 501.875pt x 368.87813pt>
 File: ../Evne-Ordbog/riteBilleder/Vand.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Vand.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Vand.png  used on input line 84.
@@ -1886,20 +1881,20 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C68C1CE8AB0EA6EE4A0D40D7A853CFE1;9218.
+(rerunfilecheck)             Checksum: FA06C8DC981495145F07A424B37B995A;9218.
  ) 
 Here is how much of TeX's memory you used:
- 37514 strings out of 469959
- 751950 string characters out of 5470319
- 1180125 words of memory out of 5000000
- 63289 multiletter control sequences out of 15000+600000
+ 37568 strings out of 469959
+ 753126 string characters out of 5470319
+ 1191125 words of memory out of 5000000
+ 63337 multiletter control sequences out of 15000+600000
  685438 words of font info for 139 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 121i,17n,124p,934b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,934b,986s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (69 pages, 13208815 bytes).
+Output written on main.pdf (69 pages, 13211749 bytes).
 PDF statistics:
- 1083 PDF objects out of 1200 (max. 8388607)
- 174 named destinations out of 1000 (max. 500000)
+ 1090 PDF objects out of 1200 (max. 8388607)
+ 180 named destinations out of 1000 (max. 500000)
  827 words of extra memory for PDF output out of 10000 (max. 10000000)
 
