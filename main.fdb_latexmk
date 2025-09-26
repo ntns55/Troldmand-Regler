@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1758830070.75007 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Troldmand-Regler/main.tex" "main.pdf" "main" 1758830078.23281 2
+["pdflatex"] 1758867723.62264 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Troldmand-Regler/main.tex" "main.pdf" "main" 1758867729.97226 2
   "../Evne-Ordbog/Ekstra Mana/Ekstra Mana Niv. 1.tex" 1757917312 66 99e63486976c484aa738f12fe82c4695 ""
   "../Evne-Ordbog/Ekstra Mana/Ekstra Mana Niv. 2.tex" 1758276027 66 ee7a953e6d67749240afb37f20468a0e ""
   "../Evne-Ordbog/Ekstra Mana/Ekstra Mana Niv. 3.tex" 1757917312 121 caf318e11b5ed1bc75297b22044f984d ""
@@ -305,10 +305,10 @@
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Troldmand-Regler/main.tex" 1757917931 1797 6cf6d81b9a57d679a852430283ddc0bc ""
-  "main.aux" 1758830077 10116 1036e6ea1a2c1c00b85c9d088ab6a77a "pdflatex"
-  "main.out" 1758830077 9218 270b16ec6f5b0df5261a258f21afdfa2 "pdflatex"
+  "main.aux" 1758867729 10116 1036e6ea1a2c1c00b85c9d088ab6a77a "pdflatex"
+  "main.out" 1758867729 9218 270b16ec6f5b0df5261a258f21afdfa2 "pdflatex"
   "main.tex" 1757917931 1797 6cf6d81b9a57d679a852430283ddc0bc ""
-  "main.toc" 1758830077 4612 c3cc5fdefc1605a2fd8e757c9bdaa0e4 "pdflatex"
+  "main.toc" 1758867729 4612 c3cc5fdefc1605a2fd8e757c9bdaa0e4 "pdflatex"
   "mainstuff/Indledning.tex" 1758632624 1862 189982473fbadf08a404b51d4097ce36 ""
   "mainstuff/MagiSomTroldmand.tex" 1758197897 3753 96b0fe0120ff6d3f895c546fe44b4671 ""
   "mainstuff/Niv1.tex" 1758632639 1602 95a3df23552d50d82fa2d1bf3c4c5331 ""
@@ -316,7 +316,7 @@
   "mainstuff/Niv3.tex" 1758198075 1749 60f4178e78f6643287d44b01a4e8a286 ""
   "mainstuff/Niv4.tex" 1758198301 2051 b45b86955336c2b03b5083ff5ac623bb ""
   "mainstuff/Stier/Demonolog.tex" 1758198509 12774 b8c0a4b538ce2e1a68fbfc69087c0307 ""
-  "mainstuff/Stier/Elementalist.tex" 1758830029 8062 09cf8a98d5c110cdfc24f73891bb4ee8 ""
+  "mainstuff/Stier/Elementalist.tex" 1758867714 8077 2fa0352bb9de35414e3541129f086df4 ""
   "mainstuff/Stier/Mentalist.tex" 1758198674 9073 73791bf304bf8b5baf4406bbe011356f ""
   "mainstuff/Stier/Nekromantiker.tex" 1758198752 10982 a4bc175ba947bcaebf31aae87c1aaf05 ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1757331245 6403955 f084c9143d1fcc3045f3c66faf856f1d ""
