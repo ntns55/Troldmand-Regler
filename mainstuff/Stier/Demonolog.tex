@@ -100,10 +100,10 @@ en radius på op til 2,5 meter. Denne kan ingen gå igennem og ingen fysisk skad
 \textbf{Type:} Positivmagi\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} En bøn/ritual på 25 ord til en dæmon.\\
-\textbf{Effekt:} En spiller får +2 maks Liv. Disse er ikke de første de mister og kan genvindes med naturlig helbredelse eller ved at blive helbredt.\\
+\textbf{Effekt:} En spiller får +2 midlertidige LP. Disse er de første de mister og men de kan genvindes med naturlig helbredelse eller ved at blive helbredt. Disse tæller mod det maksimale antal midlertidige LP de kan få.\\
 \textbf{Restriktioner:} Må ikke bruges på magikastere.\\
 \textbf{Kommando:} Forklar effekten grundigt.
-\end{sjæl*}
+\end{sjæl*}\todo{Dette er nu midlertidig LP.}
 
 \begin{sjæl*}[Dæmonisk Beskyttelse]
 \textbf{Denne magi bruger dedikeret mana.}\\
@@ -123,12 +123,13 @@ Ved spilstart skal dæmonen's udklædning godkendes.\\
 Dæmonen har:\\
 \textbf{LP:} 18\\
 \textbf{NK:} 15\\
-Kan benytte rustning.\\
+Kan benytte rustning, med Maks RP på 11.\\
 Skal være udklædt som dæmon.\\
-Når dæmonen har fuld LP vil hans RP begynde at regenerer som ved naturlig helbredelse.\\ Dæmonen genvinder 1 LP eller 1 RP hvert minut udenfor kamp og er Immun overfor alle ikke skadende magier dette Inkludere healing og andre boost.\\
+Når dæmonen har fuld LP vil hans RP begynde at regenerer som ved naturlig helbredelse.\\ 
+Dæmonen genvinder 1 LP eller 1 RP hvert minut udenfor kamp og er Immun overfor alle ikke skadende magier dette Inkludere healing og andre boost.\\
 Dæmonen tager trippel skade fra hellige våben.\\
 \textbf{Kommando:} Forklar effekten MEGET grundigt.
-\end{sjæl*}
+\end{sjæl*}\todo{Tilføjet maks RP}
 
 \section{Dæmonisk hævn}
 
@@ -153,7 +154,7 @@ Dæmonen tager trippel skade fra hellige våben.\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} Dæmon, Ild, Give, Død\\
 \textbf{Effekt:} Du bringer helvede op til Kalish for at brænde din fjende. Kraften er afhængig af hvor meget magi du har givet til dæmonerne. En person tager skade af denne magi.\\
-\textbf{Kommando:} "Helvedesild - x skade" (Hvor x er mængden af mana du har dedikeret).
+\textbf{Kommando:} "Helvedesild - x skade" (Hvor x er mængden af maks mana du har dedikeret gennem Dedikeret mana).
 \end{dHævn*}\todo{Ændret kraftigt, og gjort til niveau 3}
 
 \begin{dHævn*}[Flammehav]
@@ -168,36 +169,41 @@ Dæmonen tager trippel skade fra hellige våben.\\
 \begin{korruption*}[Villigt sind]
 \textbf{Type:} Passiv\\
 \textbf{Kategori:} -\\
-\textbf{Effekt:} Du dedikere dig til en dæmon. Vælg en dæmon som du får hjælp af og få denne effekt så længe du opfylder kravene for denne.
-\begin{itemize}
-    \item \textbf{Hadets Dæmon:} Smerte ved berøring en gang i timen uden at bruge mana. - \textbf{krav:} Du skal have en dæmonisk hånd.
-    \item \textbf{Grådighedens Dæmon:} Få dobbelt effekt, bonuser og tid, af alle drikke eller andre spiste genstande (Inklusiv dobbelt skade fra gift)
-    \item \textbf{Nattens Dæmon:} Genvind 2 mana hver gang du dræber en person - \textbf{krav:} Størknet blod som tårer på kinderne.
-    \item \textbf{Jalousiens Dæmon:} Når du torturere en person kan du stjæle 1 mana per minut, hvis dit offer stadig har mana tilbage - \textbf{Krav:} Du skal bære horn.
-    \item \textbf{Smertens og Vanviddets Dæmon:} Når du tager skade genvinder du 1 mana - \textbf{Krav:} Du skal have tydelige ar på kroppen.
-    \item \textbf{Kaosets Dæmon:} Du kan nu bruge skjold, hvis du er præst må dette skjold være et tårnskjold. - \textbf{Krav:} Du må ikke bære metal (Inklusiv mønter og nibs)
-\end{itemize}
-\end{korruption*}
+    \textbf{Effekt:} Du dedikere dig til en dæmon. Vælg en dæmon som du får hjælp af og få denne effekt så længe du opfylder kravene for denne.
+        \begin{itemize}
+            \item \textbf{Hadets Dæmon:} Smerte ved berøring en gang i timen uden at bruge mana. De relevanter riter eller en bøn på 30 ord skal bruges. Kommando der bruger: "Smerte - 30 Sekunder" - \textbf{krav:} Du skal have en dæmonisk hånd.
+            \item \textbf{Grådighedens Dæmon:} Få dobbelt effekt, bonuser og tid, af alle drikke eller andre spiste genstande (Inklusiv dobbelt skade fra gift)
+            \item \textbf{Nattens Dæmon:} Genvind 2 mana hver gang du dræber en person - \textbf{krav:} Størknet blod som tårer på kinderne.
+            \item \textbf{Jalousiens Dæmon:} Når du torturere en person kan du stjæle 1 mana per minut, hvis dit offer stadig har mana tilbage - \textbf{Krav:} Du skal bære horn.
+            \item \textbf{Smertens og Vanviddets Dæmon:} Du får en negativ berørings magi der tager en bøn til Smertens og Vanviddets Dæmon på 50 ord at kaste. Den koster intet mana. Personen vil blive ramt af "Smertens Mærke" som varer indtil den bliver ophævet eller til slutningen af spilgangen. Folk påvirket af "Smertens Mærke" vil tage 1 ekstra skade fra alle kilder og dobbelt skade fra hellig skade. - \textbf{Krav:} Du skal have tydelige ar på kroppen og vil tage dobbelt skade fra hellig skade.
+            \item \textbf{Kaosets Dæmon:} Alle magier påvirker dig kun halvt så lang tid. - \textbf{Krav:} Du må ikke bære metal (Inklusiv mønter og nibs)
+        \end{itemize}
+    \end{korruption*}
+\todo{Ændret Hadets Dæmon, Kaosets Dæmon, og Smertens og Vanviddets Dæmon}
 
 \begin{korruption*}[Spred korruption]
 \textbf{Denne magi bruger dedikeret mana.}
 \textbf{Type:} Positivmagi\\
 \textbf{Kategori:}Berøringsmagi\\
 \textbf{Rite:} En bøn/ritual på 25 ord til en dæmon.\\
-\textbf{Effekt:} Giv en af effekterne fra Villigt sind til en anden spiller. de skal stadig opfylde de kravene for velsignelsen\\
-\textbf{Kommando:} Forklar effekten grundigt
+\textbf{Effekt:} Giv en af effekterne fra Villigt sind til en anden spiller. De skal stadig opfylde de kravene for velsignelsen\\
+\textbf{Kommando:} Forklar effekten grundigt.
 \end{korruption*}
 
 \begin{korruption*}[Åbent Sind]
 \textbf{Type:} Passiv\\
 \textbf{Kategori:} -\\
-\textbf{Effekt:} Vælg 2 effekter fra magien Villigt sind.
-\end{korruption*}
+\textbf{Effekt:} Vælg 2 effekter fra magien Villigt sind.\\
+1 af disse effekter kan også være hjælp fra Lysets Dæmon:
+\begin{itemize}
+    \item \textbf{Lysets Dæmon:} Alle skadende magier du har helbreder i stedet. Alle Helbredende magier skader op til 4 Hellig skade. - \textbf{Krav:} Du skal bære et symbol for 2 forskellige guder.
+\end{itemize}
+\end{korruption*}\todo{Tilføjet Lysets Dæmon}
 
 \begin{korruption*}[Dæmonisk magt]
 \textbf{Type:} Passiv\\
 \textbf{Kategori:} -\\
-\textbf{Effekt:} Vælg 1 effekt fra magien Villigt sind.\\
+\textbf{Effekt:} Vælg 1 effekt fra magien "Villigt Sind" eller effekten fra Lysets Dæmon fra "Åbent Sind".\\
 Du mister evnen ‘Solid mana’.\\ 
 Du skal kun betale halv mana pris når du bruger dedikeret mana.
 \end{korruption*}
@@ -227,14 +233,14 @@ Du skal kun betale halv mana pris når du bruger dedikeret mana.
 \textbf{Type:} Positivmagi\\
 \textbf{Kategori:}Kan kun ramme kasteren.\\
 \textbf{Rite:} En tale på minimum 50 ord.\\
-\textbf{Effekt:} Alle der har indgået en dæmonisk kontrakt med dig og kan se dig under kamp har +2 LP. Disse LP er de første de mister og kan ikke genvindes før denne magi kastes igen.\\
+\textbf{Effekt:} Alle der har indgået en dæmonisk kontrakt med dig og kan se dig under kamp har +2 Midlertidige LP. Disse LP er de første de mister og kan ikke genvindes før denne magi kastes igen. Denne magi varer 15 minutter eller til de midlertidige LP er mistet.\\
 \textbf{Kommando:} Forklar effekt grundigt til alle der bliver påvirket af den.
-\end{falden*}
+\end{falden*}\todo{Sat tidsbegræsnings på.}
 
 \begin{falden*}[Mana plaster]
 \textbf{Type:} Øjeblikkeligmagi\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} En bøn/ritual på 25 ord til en dæmon.\\
-\textbf{Effekt:} En person genvinder alle LP og alle Mana. Hvis personen har været død kan denne gå i kamp med det samme og behøver ikke vente 10 minutter. Denne magi kan ikke påvirke kasteren selv.\\
+\textbf{Effekt:} En person genvinder alle LP og alle Mana. Hvis personen har været død kan denne gå i kamp med det samme og behøver ikke vente 10 minutter. Denne magi kan ikke påvirke kasteren selv, uanset hvem den bliver kastet af.\\
 \textbf{Kommando:} Forklar effekten grundigt.
-\end{falden*}
+\end{falden*}\todo{Gjort at kasteren ikke kan påvirkes af denne magi, hvis de allerede har den.}
