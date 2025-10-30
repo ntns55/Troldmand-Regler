@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  30 OCT 2025 21:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  31 OCT 2025 00:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1183,7 +1183,7 @@ Package hyperref Info: Link coloring ON on input line 29.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-<setup/Pictures/A01.C01.01_Front_Billede.png, id=362, 10037.5pt x 2762.32pt>
+<setup/Pictures/A01.C01.01_Front_Billede.png, id=366, 10037.5pt x 2762.32pt>
 File: setup/Pictures/A01.C01.01_Front_Billede.png Graphic file (type png)
 <use setup/Pictures/A01.C01.01_Front_Billede.png>
 Package pdftex.def Info: setup/Pictures/A01.C01.01_Front_Billede.png  used on input line 32.
@@ -1269,7 +1269,7 @@ Package hyperref Info: bookmark level for unknown todo defaults to 0 on input li
 (../Evne-Ordbog/Læse og skrive/Læse og skrive Elvisk.tex
 
 pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf, id=478, 495.14487pt x 82.34865pt>
+<../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf, id=483, 495.14487pt x 82.34865pt>
 File: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf Graphic file (type pdf)
 <use ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf  used on input line 5.
@@ -1287,7 +1287,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 ] (../Evne-Ordbog/Læse og skrive/Læse og skrive Magisk.tex
 
 pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf, id=485, 495.14487pt x 70.73526pt>
+<../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf, id=490, 495.14487pt x 70.73526pt>
 File: ../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf Graphic file (type pdf)
 <use ../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf  used on input line 5.
@@ -1375,19 +1375,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
 [16]
 Kapitel 6.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 26.
+(Font)              scaled to size 9.37807pt on input line 27.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 26.
+(Font)              scaled to size 7.29405pt on input line 27.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 26.
+(Font)              scaled to size 5.21004pt on input line 27.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 26.
+(Font)              scaled to size 9.37807pt on input line 27.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 26.
+(Font)              scaled to size 7.29405pt on input line 27.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 26.
+(Font)              scaled to size 5.21004pt on input line 27.
 (../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--31
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
 
  []
 
@@ -1397,17 +1397,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--31
 
 
 ] (../Evne-Ordbog/GenerelleEvner/Evner/6sansNiv2.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--33
+Underfull \hbox (badness 10000) in paragraph at lines 2--34
 
  []
 
 (../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--35
+Underfull \hbox (badness 10000) in paragraph at lines 2--36
 
  []
 
 (../Evne-Ordbog/GenerelleEvner/Evner/Bære Person.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--37
+Underfull \hbox (badness 10000) in paragraph at lines 2--38
 
  []
 
@@ -1435,7 +1435,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--67
 
 
 [21]) (../Evne-Ordbog/GenerelleEvner/Evner/Læse og skrive.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--43
+Underfull \hbox (badness 10000) in paragraph at lines 2--44
 
  []
 
@@ -1453,7 +1453,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
 
 
-[23]) (../Evne-Ordbog/GenerelleEvner/Evner/Universets Centrum.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex)) (mainstuff/MagiSomTroldmand.tex
+[23]) (../Evne-Ordbog/GenerelleEvner/Evner/Universets Centrum.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Universets Ydre.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex)) (mainstuff/MagiSomTroldmand.tex
 
 [24]
 Kapitel 7.
@@ -1525,6 +1525,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--22
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]|\T1/pplx/m/n/10.95 D�monisk
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 26--26
 []|\T1/pplx/m/n/10.95 D�monisk
  []
@@ -1578,23 +1583,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--19
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+\T1/pplx/m/n/10.95 Kon-den-se-
+ []
+
+
 Overfull \hbox (0.82971pt too wide) in paragraph at lines 21--21
 []|\T1/pplx/m/n/10.95 Flammen�ve| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-[]|\T1/pplx/m/n/10.95 Jordens
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 29--29
+Underfull \hbox (badness 1546) in paragraph at lines 22--22
 []|\T1/pplx/m/n/10.95 Jordens bar-
  []
 
 
 Underfull \hbox (badness 1237) in paragraph at lines 33--33
 []|\T1/pplx/m/n/10.95 Mana cir-ku-
+ []
+
+
+Overfull \hbox (2.17659pt too wide) in paragraph at lines 34--34
+[]|\T1/pplx/m/n/10.95 Vandhammer| 
  []
 
 
@@ -1620,17 +1630,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--55
 ]
 
 [41]
+Underfull \hbox (badness 10000) in paragraph at lines 98--103
+
+ []
+
+
 
 [42]
 
 [43]
-
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 187--192
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
 
  []
 
-) (mainstuff/Stier/Mentalist.tex
+
+
+[44]) (mainstuff/Stier/Mentalist.tex
 
 [45]
 Kapitel 11.
@@ -1725,7 +1740,7 @@ Underfull \hbox (badness 2818) in paragraph at lines 15--15
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]|\T1/pplx/m/n/10.95 Helbred
+[]|\T1/pplx/m/n/10.95 Skab Ge-
  []
 
 
@@ -1736,6 +1751,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--21
 
 Underfull \hbox (badness 3098) in paragraph at lines 22--22
 []|\T1/pplx/m/n/10.95 Sj�lens bat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\T1/pplx/m/n/10.95 Skab Mon-
  []
 
 
@@ -1828,12 +1848,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 233--238
 )) (../Evne-Ordbog/Liste af Riter.tex
 
 [61]
-<../Evne-Ordbog/riteBilleder/Bevægelse.png, id=1022, 501.875pt x 421.07312pt>
+<../Evne-Ordbog/riteBilleder/Bevægelse.png, id=1020, 501.875pt x 421.07312pt>
 File: ../Evne-Ordbog/riteBilleder/Bevægelse.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Bevægelse.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Bevægelse.png  used on input line 4.
 (pdftex.def)             Requested size: 402.79135pt x 337.95764pt.
-<../Evne-Ordbog/riteBilleder/Dæmon.png, id=1023, 501.875pt x 445.665pt>
+<../Evne-Ordbog/riteBilleder/Dæmon.png, id=1021, 501.875pt x 445.665pt>
 File: ../Evne-Ordbog/riteBilleder/Dæmon.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Dæmon.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Dæmon.png  used on input line 12.
@@ -1844,7 +1864,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Dæmon.png  used on input l
 
 
  <../Evne-Ordbog/riteBilleder/Bevægelse.png>]
-<../Evne-Ordbog/riteBilleder/Død.png, id=1028, 501.875pt x 339.76938pt>
+<../Evne-Ordbog/riteBilleder/Død.png, id=1026, 501.875pt x 339.76938pt>
 File: ../Evne-Ordbog/riteBilleder/Død.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Død.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Død.png  used on input line 20.
@@ -1852,7 +1872,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Død.png  used on input lin
 
 
 [63 <../Evne-Ordbog/riteBilleder/Dæmon.png>]
-<../Evne-Ordbog/riteBilleder/Give.png, id=1033, 501.875pt x 328.72812pt>
+<../Evne-Ordbog/riteBilleder/Give.png, id=1031, 501.875pt x 328.72812pt>
 File: ../Evne-Ordbog/riteBilleder/Give.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Give.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Give.png  used on input line 28.
@@ -1860,7 +1880,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Give.png  used on input lin
 
 
 [64 <../Evne-Ordbog/riteBilleder/Død.png>]
-<../Evne-Ordbog/riteBilleder/Ild.png, id=1038, 501.875pt x 334.75063pt>
+<../Evne-Ordbog/riteBilleder/Ild.png, id=1036, 501.875pt x 334.75063pt>
 File: ../Evne-Ordbog/riteBilleder/Ild.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Ild.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Ild.png  used on input line 36.
@@ -1868,7 +1888,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Ild.png  used on input line
 
 
 [65 <../Evne-Ordbog/riteBilleder/Give.png>]
-<../Evne-Ordbog/riteBilleder/Jord.png, id=1043, 501.875pt x 454.69875pt>
+<../Evne-Ordbog/riteBilleder/Jord.png, id=1041, 501.875pt x 454.69875pt>
 File: ../Evne-Ordbog/riteBilleder/Jord.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Jord.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Jord.png  used on input line 44.
@@ -1876,7 +1896,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Jord.png  used on input lin
 
 
 [66 <../Evne-Ordbog/riteBilleder/Ild.png>]
-<../Evne-Ordbog/riteBilleder/Liv.png, id=1049, 501.875pt x 422.07687pt>
+<../Evne-Ordbog/riteBilleder/Liv.png, id=1047, 501.875pt x 422.07687pt>
 File: ../Evne-Ordbog/riteBilleder/Liv.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Liv.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Liv.png  used on input line 52.
@@ -1884,7 +1904,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Liv.png  used on input line
 
 
 [67 <../Evne-Ordbog/riteBilleder/Jord.png>]
-<../Evne-Ordbog/riteBilleder/Magi.png, id=1054, 501.875pt x 397.485pt>
+<../Evne-Ordbog/riteBilleder/Magi.png, id=1052, 501.875pt x 397.485pt>
 File: ../Evne-Ordbog/riteBilleder/Magi.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Magi.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Magi.png  used on input line 60.
@@ -1892,7 +1912,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Magi.png  used on input lin
 
 
 [68 <../Evne-Ordbog/riteBilleder/Liv.png>]
-<../Evne-Ordbog/riteBilleder/Tanke.png, id=1059, 501.875pt x 347.2975pt>
+<../Evne-Ordbog/riteBilleder/Tanke.png, id=1057, 501.875pt x 347.2975pt>
 File: ../Evne-Ordbog/riteBilleder/Tanke.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Tanke.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Tanke.png  used on input line 68.
@@ -1900,7 +1920,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Tanke.png  used on input li
 
 
 [69 <../Evne-Ordbog/riteBilleder/Magi.png>]
-<../Evne-Ordbog/riteBilleder/Trække.png, id=1064, 501.875pt x 412.54124pt>
+<../Evne-Ordbog/riteBilleder/Trække.png, id=1062, 501.875pt x 412.54124pt>
 File: ../Evne-Ordbog/riteBilleder/Trække.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Trække.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Trække.png  used on input line 76.
@@ -1908,7 +1928,7 @@ Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Trække.png  used on input 
 
 
 [70 <../Evne-Ordbog/riteBilleder/Tanke.png>]
-<../Evne-Ordbog/riteBilleder/Vand.png, id=1069, 501.875pt x 368.87813pt>
+<../Evne-Ordbog/riteBilleder/Vand.png, id=1067, 501.875pt x 368.87813pt>
 File: ../Evne-Ordbog/riteBilleder/Vand.png Graphic file (type png)
 <use ../Evne-Ordbog/riteBilleder/Vand.png>
 Package pdftex.def Info: ../Evne-Ordbog/riteBilleder/Vand.png  used on input line 84.
@@ -1929,20 +1949,20 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E04ED96BEE64627DC9DF6038BC518827;9908.
+(rerunfilecheck)             Checksum: 27926FCA8D959B49AE151373D272BCB6;10045.
  ) 
 Here is how much of TeX's memory you used:
- 37669 strings out of 468149
- 754088 string characters out of 5431082
- 1225955 words of memory out of 5000000
- 65236 multiletter control sequences out of 15000+600000
+ 37614 strings out of 468149
+ 753167 string characters out of 5431082
+ 1214953 words of memory out of 5000000
+ 65184 multiletter control sequences out of 15000+600000
  693108 words of font info for 157 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  121i,18n,124p,914b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (73 pages, 13228747 bytes).
+Output written on main.pdf (73 pages, 13227278 bytes).
 PDF statistics:
- 1143 PDF objects out of 1200 (max. 8388607)
- 196 named destinations out of 1000 (max. 500000)
- 867 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1140 PDF objects out of 1200 (max. 8388607)
+ 190 named destinations out of 1000 (max. 500000)
+ 875 words of extra memory for PDF output out of 10000 (max. 10000000)
 

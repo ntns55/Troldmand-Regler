@@ -16,22 +16,22 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
         Vindstød\\\hline
         
         2 & 
-        Magiens Krop & 
-        Hjerne frys & 
+        Magiens Kondensering & 
+        Skoldning  & 
         Flammenæve& 
-        Jordens Rustning & 
+        Jordens barrier & 
         Tornado\\\hline
         
         3 & 
         Ophæv magi & 
-        Skoldning & 
+        Snestorm & 
         Lyn & 
-        Jordens barrier & 
+        Stenform & 
         Vindslid\\\hline
         
         4 & 
         Mana cirkulering & 
-        Snestorm & 
+        Vandhammer & 
         Ildkugle & 
         Metalisk Mana & 
         Tordenskrald\\\hline
@@ -48,10 +48,10 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 \textbf{Kommando:} Forklar effekten grundigt
 \end{primærMagi*}
 
-\begin{primærMagi*}[Magiens Krop]
+\begin{primærMagi*}[Magisk kondensering.]
 \textbf{Type:} Passiv\\
 \textbf{Kategori:} -\\
-\textbf{Effekt:} En tredjedel af mentalistens mana (rundet ned) er deres hvor meget maks LP de kan have når de fra Midlertidig LP. \\
+\textbf{Effekt:} Du kan gøre en pege magi til en kastemagi, og den vil skade dobbelt så meget. Du kan gøre en kastemagi til en berørings magi og den vil skade dobbelt så meget.\\
 \end{primærMagi*}
 
 \begin{primærMagi*}[Ophæv magi]
@@ -77,15 +77,6 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 \textbf{Kommando:} ”Isslag, paralyse 10 sekunder”
 \end{vand*}
 
-\begin{vand*}[Hjerne frys]
-\textbf{Type:} Negativ magi\\
-\textbf{Kategori:} Kastemagi\\
-\textbf{Rite:} Vand, Bevægelse, Trække\\
-\textbf{Ingredienser:} En blå skumbold eller rispose.\\
-\textbf{Effekt:} Du kaster en skumbold eller rispose i en blå farve. Rammes personen vil de falde i søvn i 30 sekunder.\\
-\textbf{Kommando:} ”Søvn, 30 sekunder.”
-\end{vand*}
-
 \begin{vand*}[Skoldning]
 \textbf{Type:} Negativ magi\\
 \textbf{Kategori:} Pegemagi\\
@@ -100,10 +91,17 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 \textbf{Rite:} Vand, Give, Trække, Bevægelse\\
 \textbf{Ingredienser:} Gryn\\
 \textbf{Effekt:} Sender en sky af ekstrem kulde og sne mod dine fjender. Du skal bruge gryn til denne magi. (Ikke mel eller ris, men gryn). Når du kaster magien skal gryn kastes. De de bliver ramt af gryn vil tage skade.\\
-\textbf{Kommando:} "Snestorm, 5 i skade"
+\textbf{Kommando:} "Snestorm, 4 i skade"
 \end{vand*}
 
-\todo{Ændret til kastemagi}
+\begin{vand*}[Vandhammer]
+\textbf{Type:} Øjeblikkelig magi\\
+\textbf{Kategori:} Berørings magi\\
+\textbf{Rite:} Magi, Trække, Vand, Give\\
+\textbf{Effekt:} Begge dine hænder indeholder vandets magi. Elementalist kan skade 6 i skade til to subjekter eller 12 skade til et subjekt, dog skal det være samtidigt. Hvis man rammes vil subjektet vælte. Hvis ofret dør af denne magi, må du kaste den igen inden for 10 sekunder, denne nye version vil ikke koste mana.\\
+\textbf{Kommando:} "Vandhammer - 6 i skade, vælt" (Eller 12 i skade)\\
+\end{vand*}
+
 \section{Ild}
 \begin{ild*}[Gnist]
 \textbf{Type:} Øjeblikkeligmagi\\
@@ -114,16 +112,14 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 \textbf{Kommando:} "Gnist, 2 i skade"
 \end{ild*}
 
-\todo{Lavet til niveau 2}
 \begin{ild*}[Flammenæve]
 \textbf{Type:} Øjeblikkeligmagi\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} Give, Magi, Give, Ild\\
 \textbf{Effekt:} Din næve bliver flydt med ild og du brænder dine fjender i stykker..\\
-\textbf{Kommando:} "Flammenæve, 4 i skade"
+\textbf{Kommando:} "Flammenæve, 5 i skade"
 \end{ild*}
 
-\todo{Flyttet til niveau 3}
 \begin{ild*}[Lyn]
 \textbf{Type:} Øjeblikkeligmagi\\
 \textbf{Kategori:} Pegemagi\\
@@ -149,7 +145,6 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 \textbf{Kommando:} "Ildkugle 10 i skade"
 \end{ild*}
 
-\todo{Ændret til at kun kunne blive kastet på elementalisten.}
 \section{Jord}
 \begin{jord*}[Mudder maske]
 \textbf{Type:} Positiv magi\\
@@ -157,14 +152,6 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 \textbf{Rite:} Jord, Liv, Magi, Liv, Give, Jord, Trække, Død. \\
 \textbf{Effekt:} Du beskytter dine mest sårbare dele med størknet mudder. Du er immun overfor den næste pil, medmindre denne er et bagholdsangreb.\\
 \textbf{Kommando:} Forklar grundigt effekten til personen.
-\end{jord*}
-
-\begin{jord*}[Jordensrustning]
-\textbf{Type:} Positiv magi\\
-\textbf{Kategori:} Berøringsmagi - Kun troldmanden.\\
-\textbf{Rite:} Jord, Give, Jord\\
-\textbf{Effekt:} Du beskytter dig selv mod de næste to slag.\\
-\textbf{Kommando:} Ingen
 \end{jord*}
 
 \begin{jord*}[Jordens barrier]
@@ -175,6 +162,10 @@ En Elementalist har specialiseret sig at bruge naturen omkring ham til at knuse 
 Magien vil blive ophævet hvis du ikke kan ses.\\
 \textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
 \textbf{Kommando:} "Jordens skjold"
+\end{jord*}
+
+\begin{jord*}[Stenform]
+    Indsæt Stenform
 \end{jord*}
 
 \begin{jord*}[Metalisk Mana]
@@ -211,5 +202,5 @@ Magien vil blive ophævet hvis du ikke kan ses.\\
 \textbf{Type:} -\\
 \textbf{Kategori:} Passiv\\
 Når du bruger vindstød har du mulighed for at denne giver 3 skade i stedet for at vælte. Hvis du gør dette vil vindstød koste 2 ekstra mana. Du kan stadig kaste vindstød normalt. Se den nye kommando nedenfor.\\
-\textbf{Kommando:} "Tordenskrald - 3 i skade."
+\textbf{Kommando:} "Tordenskrald - 2 i skade."
 \end{vind*}
