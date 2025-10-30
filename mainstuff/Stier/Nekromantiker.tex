@@ -25,14 +25,14 @@ Nekromantikere besidder evnen til at manipulerer med livs energi. Dette kan vær
         Ophæv magi & 
         Overfør liv& 
         Spedalsk & 
-        Sjælens Pil& 
-        Dræn liv\\\hline
+        Opsug Sjæl& 
+        Sjælens Energi\\\hline
         
         4 & 
         Døds cirkel & 
-        Skab døds ridder& 
+        \small\makecell{Dødens Herrer \\\&\\ Zombie Storm}& 
         Pest & 
-        Sjælens energi & 
+        Forband Sjæl& 
         Dødens Genopstand 
         \\\hline
     \end{tabular}
@@ -73,6 +73,7 @@ En person kan godt være påvirket af flere sygdomme på en gang. Hvis personen 
 \textbf{Kategori:} Områdemagi \\
 \textbf{Rite:} Magi, Give, Død, Trække, Liv \\
 \textbf{Effekt:} Med denne magi laver troldmanden en magisk cirkel som skal tegnes op med gryn. Cirklen må have en radius på op til 2,5 meter. Alle der træder ind eller ud af cirklen vil tage 4 i skade. Kasteren skal stå i Cirklen før den har effekt. Hvis en person dør til dette skjold, vil de blive gjort til en zombie, som om Nekromantikeren havde kastet Skab Zombie på dem. Skjoldet kan ophæves med ophæv magi. Skjoldet varer Maksimum 10 minutter, eller til kasteren forlader det.\\ 
+\textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
 \textbf{Kommando:} Døds cirkel 4 i skade (Hvis personen dør, informer dem om zombie reglerne.)
 \end{primærMagi*}
 
@@ -81,38 +82,52 @@ En person kan godt være påvirket af flere sygdomme på en gang. Hvis personen 
 \textbf{Type:} Negativmagi\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} Død, Magi, Trække, Død\\
-
 \textbf{Effekt:} Med denne magi kan troldmanden skabe en zombie ud af et lig. Personen skal sminkes hvid i hovedet og/eller sort omkring øjnene og gå meget langsomt, samt kun gøre hvad dens skaber har kommanderet.\\
-Zombien's liv afhænger af hvor mange magier i zombie stien du har adgang til.\\ Hvis du kun har adgang til niveau 1 magi i Zombie stien har dine zombier 4 LP.\\ Har du adgang til niveau 2 magi i Zombie stien har dine zombier 6 LP.\\ Har du adgang til niveau 3 magi i Zombie stien har dine zombier 8 LP.\\ Har du adgang til niveau 4 magi i Zombie stien har dine zombier 12 LP.\\
-En zombie's nævekamp vil være den samme som da de var levende uanset niveau. Denne magi koster ikke mere mana selvom dine zombier har mere liv. Magien varer maksimum 30 minutter. Når en person som har været zombie bliver genoplivet, vil de være normal igen, og kan intet huske af dens liv som zombie. Husk at fjerne sminken. Zombier tager dobbelt skade fra alle hellige våben (markeret med et grønt bånd), dette skal zombien selv være opmærksom på. Zombier kan ikke genvinde LP, medmindre
-magien Helbred zombie bliver brugt.\\
+Zombien har 6 LP\\
+En zombie's nævekamp vil være den samme som da de var levende. Magien varer maksimum 30 minutter. Når en person som har været zombie bliver genoplivet, vil de være normal igen, og kan intet huske af dens liv som zombie. Husk at fjerne sminken. Zombier tager dobbelt skade fra alle hellige våben (markeret med et grønt bånd), dette skal zombien selv være opmærksom på.\\ 
+Zombier kan ikke genvinde LP, men kan blive påvirket af alle andre magier og drikke.\\
 \textit{MEGET VIGTIGT: ZOMBIERE KAN IKKE KÆMPE HURTIGT ELLER LØBE HURTIGT, DE SKAL OPFØRE SIG SOM ZOMBIER, OG KÆMPE SOM ZOMBIERE. DETTE ER NEKROMANTIKERENS ANSVAR.}\\
 \textbf{Kommando:} Forklar effekten grundigt til subjektet.\\
 \end{zombie*}
 
-\begin{zombie*}[Helbred Zombie]
-\textbf{Type:} Øjeblikkeligmagi\\
+\begin{zombie*}[Skab Gespænst]
+\textbf{Type:} Negativmagi\\
 \textbf{Kategori:} Berøringsmagi\\
-\textbf{Rite:} Give, Død, Liv, Give, Liv, Død\\
-\textbf{Effekt:} En zombie genvinder alle LP.\\
-\textbf{Kommando:} Forklar effekten grundigt.
+\textbf{Rite:} Død, Død, Magi, Magi, Trække, Trække, Død, Død\\
+\textbf{Effekt:} Med denne magi kan troldmanden skabe et gespænst ud af et lig. Personen skal sminkes således at det er tydeligt at de er et lig, men kan bevæge sig hurtigt. De må kun gøre hvad dens skaber har kommanderet.\\
+Et gespænst har 4 LP + 1 LP for hvert andet Gespænst som Nekromantikeren har under deres kontrol og Nævekamp som da de var levende\\
+Magien varer maksimum 30 minutter. Når en person som har været gespænst bliver genoplivet, vil de være normal igen, og kan intet huske af dens liv som gespænst. Husk at fjerne sminken. Gespænster tager dobbelt skade fra alle hellige våben (markeret med et grønt bånd), dette skal gespænstet selv være opmærksom på.\\ 
+Gespænster kan ikke genvinde LP, men kan blive påvirket af alle andre magier og drikke. Et gespænst \emph{kan} blive ramt af Fjern Zombie\\
+\textbf{Kommando:} Forklar effekten grundigt til subjektet.\\
 \end{zombie*}
 
-\begin{zombie*}[Overfør Liv]
-\textbf{Type:} Øjeblikkeligmagi\\
+\begin{zombie*}[Skab Monstrum]
+\textbf{Type:} Negativmagi\\
 \textbf{Kategori:} Berøringsmagi\\
-\textbf{Rite:} Magi, Liv, Død, Magi\\
-\textbf{Effekt:} Du kan overføre liv fra et villigt subjekt, eller zombie, til et andet. Ingen af personerne kan overstige maksimum LP eller gå på 0 LP.\\
-\textbf{Kommando:} Forklar effekten grundigt.
+\textbf{Rite:} Død, Død, Død, Magi, Magi, Magi, Trække, Trække, Trække, Død, Død, Død\\
+\textbf{Effekt:} Med denne magi kan troldmanden skabe et monstrum ud af et lig. Personen skal sminkes således at det er tydeligt at de er et lig, og skal bevæge sig langsomt. De må kun gøre hvad dens skaber har kommanderet.\\
+Et Monstrum har lige så mange LP som kasterens maksimale mana og tredobbelt Nævekamp som da de var levende.\\
+Et monstrum er immun overfor Fjern Zombie.\\
+Magien varer maksimum 30 minutter. Når en person som har været Monstrum bliver genoplivet, vil de være normal igen, og kan intet huske af dens liv som Monstrum. Husk at fjerne sminken. Monstrumer tager dobbelt skade fra alle hellige våben (markeret med et grønt bånd), dette skal monstrumet selv være opmærksom på.\\ 
+Monstrumer kan ikke genvinde LP, men kan blive påvirket af alle andre magier (pånær Fjern Zombie) og drikke.\\
+En Nekromantiker kan maks have 3 Monstrumer under sig på en gang. \\
+Hvis et Monstrum er i Nævekamp og vinder, vil modstanderen dø.\\
+Et monstrum kan rive en port op, men vil tage halvdelen af sit maks LP i skade for dette.\\
+\textbf{Kommando:} Forklar effekten grundigt til subjektet.\\
 \end{zombie*}
 
-\todo{Fjernet Skab Døds Ridder og erstattet det med Dødens Herrer.}
+
 \begin{zombie*}[Dødens Herrer]
 \textbf{Type:} Passiv\\
 \textbf{Kategori:} Passiv\\
-\textbf{Ingredienser:} Et stykke papir hvor der står effekten af din stærkeste sygdom, og hvad sygdoms reglerne er.\\
-\textbf{Effekt:} Zombier du laver vil også sprede den stærkeste sygdom du kan kaste når de dræber nogen eller bliver gennemsøgt. Zombierne selv vil også blive påvirket af den stærkeste sygdom du kan kaste \underline{efter} de bliver genoplivet.
-\textbf{Note:} For at dine zombier kan huske hvad de kan og hvad din sygdom gør foreslår vi at du lave en side med din stærkeste sygdom, dens effekt og hvordan sygdomme fungere. Hver zombie burde have minimum 3 så de kan give ud når de bliver gennemsøgt, og når de dræber nogen. 
+\textbf{Effekt:} Du kan bruge Dedikeret mana på at skabe dine udøde. (Husk at spørge spilleren offgame om de er okay med det). Har du brugt dedikeret mana vil dine Zombier ikke kunne helbredes med almindelige helbredelses metoder indtil du har trukket den dedikerede mana tilbage. Dine udøde vil tilgengæld genvinde 1 LP hvert 2 minutter udenfor kamp.
+\end{zombie*}
+\begin{zombie*}[Zombie Storm]
+\textbf{Type:} Øjeblikkeligmagi\\
+\textbf{Kategori:} Område magi\\
+\textbf{Rite:} Magi, Liv, Død, Magi, Jord, Dæmon, Død\\
+\textbf{Effekt:} Det foreslåes kraftigt at du koordinere med dine Udøde på forhånd således at de ved hvad der vil ske når du kaster denne magi. Alle udøde du har brugt dedikeret mana på vil genvinde 5 LP, såfremt at de er blevet dræbt. Der er ingen radius på denne magi, de skal blot kunne høre din stemme. Det foreslåes at du bruger et kodeord så de ved at det er dig der kaster denne magi.\\
+\textbf{Kommando:} "UDØDE REJS JER! [Kodeord]" 
 \end{zombie*}
 
 %\begin{zombie*}[Skab Døds Ridder]
@@ -175,21 +190,23 @@ magien Helbred zombie bliver brugt.\\
 \textbf{Kommando:} Forklar dette grundigt til subjektet.
 \end{nSjæl*}
 
-\begin{nSjæl*}[Sjælens Pil]
-\textbf{Type:} Øjeblikkeligmagi\\
-\textbf{Kategori:} Pegemagi\\
-\textbf{Rite:} Trække, Liv, Give, Dæmon, Ild\\
-\textbf{Effekt:} Nekromantikeren hylder sin hånd med ren død. Offeret vil tage 3 i skade.\\
-\textbf{Kommando:} Sjælens Pil 3 i skade.\\
+\begin{nSjæl*}[Opsug Sjæl]
+\textbf{Denne magi bruger dedikeret mana}
+\textbf{Type:} Positiv\\
+\textbf{Kategori:} Kasteren selv\\
+\textbf{Rite:} Trække, Liv, Give, Dæmon, Bevægelse\\
+\textbf{Effekt:} Du må tage en niveau 1 eller 2 evne fra et lig. Personen vil stadig have denne evne. Du må ikke tage generelle evner eller evner der giver dig adgang til flere magier. Du må ikke tage Ekstra Liv. Du vil have denne evne indtil slutningen af spilgangen eller til du ikke dedikere mana længere.
+\textbf{Kommando:} Forklar effekten grundigt.\\
 \end{nSjæl*}
 
-\begin{nSjæl*}[Dræn liv]
-\textbf{Type:} Øjeblikkeligmagi\\
-\textbf{Kategori:} Berøringsmagi\
-\textbf{Rite:} Trække, Liv, Give, Død, Give, Liv\\
-\textbf{Effekt:} Et subjekt tager 5 skade. Nekromantikeren genvinder 5 liv.\\
-\textbf{Kommando:} ”Dræn liv, 5 skade”
-\end{nSjæl*}\todo{Gjort til Sjæl og skal nok have et buff for et niveau 4 magi.}
+\begin{nSjæl*}[Forband Sjæl]
+\textbf{Denne magi bruger dedikeret mana}\\
+\textbf{Type:} Sygdom\\
+\textbf{Kategori:} Berøringsmagi\\
+\textbf{Rite:} Trække, Liv, Give, Død, Give, Dæmon\\
+\textbf{Effekt:} Lav en negativ magi om til en sygdom (Dette kan ikke være paralyse, søvn eller andet som gør at personen ikke kan bevæge sig). Du skal kunne kaste magien, eller have en skriftrulle med magien på.\\
+\textbf{Kommando:} Forklar effekten grundigt.
+\end{nSjæl*}
 
 \section{Forrådnelse}
 
@@ -204,18 +221,18 @@ magien Helbred zombie bliver brugt.\\
 \textbf{Kategori:} -\\
 \textbf{Effekt:} Når nekromantikeren gennemleder et lig for penge vil de også automatisk genvinde 1 Mana. Det tager 30 sekunder at gennemlede en person. Den samme person kan ikke gennemledes flere gange.\\
 \end{død*}
-\todo{Ændret til at 1 mana og sat at den samme person ikke kan gennemledes mere end 1 gang.}
 
 \begin{død*}[Sjælens energi]
 \textbf{Type:} Passiv\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} Trække, Liv, [Riten til den magi du vil kaste], Magi\\
-\textbf{Effekt:} Du kan bruge LP som mana enten fra dig selv eller fra et villigt subjekt. For at bruge denne magi skal riterne trække og liv sættes foran den originale rite og riten magi skal sættes efter. Der kan ikke kastes niveau 4 magier med denne magi.
-\end{død*}\todo{Gjort til passiv og skiftet sti, så forrådnelse er ren passive magier.}
+\textbf{Effekt:} Du kan bruge LP som mana enten fra dig selv eller fra et villigt subjekt. For at bruge denne magi skal riterne trække og liv sættes foran den originale rite og riten magi skal sættes efter. Der kan ikke kastes niveau 4 magier eller skabes udøde med denne magi.
+\end{død*}
 
 \begin{død*}[Dødens genopstand]
 \textbf{Type:} - \\
 \textbf{Kategori:} Område magi\\
 \textbf{Effekt:} Nekromantikeren forbereder et alter, dette skal være tydeligt og skal være dekoreret. Dette alter bliver forberedt ved at udfør et mindre ritual som varer minimum 5 minutter og hvor et levende væsen ofres.\\ 
-Imens magien har en effekt vil nekromantikeren genopstå  ved alteret hvis de bliver slået ned. Denne Magi varer indtil du dør. Nekromantikeren lægger en hånd på hovedet og går hen til alteret når de dør. Denne magi tæller ikke som en positiv magi, men som en passiv effekt og kan derfor ikke ophæves med ophæv magi.  Man kan kun genoplive med denne effekt 1 gang per 30 minutter. Hvis alteret er intakt genopstår man med fuldt lp og mana og ignorere døds reglerne. Er alteret blevet forstyrret eller ødelagt vil Nekromantikeren ikke kunne genvinde mana ved meditation i 10 minutter. Det skal være nemt for en anden spiller at forstyrre eller ødelægge alteret. Man må kun have et alter.
+Imens magien har en effekt vil nekromantikeren genopstå  ved alteret hvis de bliver slået ned. Denne Magi varer indtil du dør. Nekromantikeren lægger en hånd på hovedet og går hen til alteret når de dør. Denne magi tæller ikke som en positiv magi, men som en passiv effekt og kan derfor ikke ophæves med ophæv magi.  Man kan kun genoplive med denne effekt 1 gang per 30 minutter. Hvis alteret er intakt genopstår man med fuldt lp og mana og ignorere døds reglerne. Er alteret blevet forstyrret eller ødelagt vil Nekromantikeren ikke kunne genvinde mana ved meditation i 10 minutter. Det skal være nemt for en anden spiller at forstyrre eller ødelægge alteret. Man må kun have et alter.\\
+\textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
 \end{død*}

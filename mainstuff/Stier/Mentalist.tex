@@ -30,7 +30,7 @@ Mentalisten har specialiseret sig i sindet. Han har stor stolthed i sine evner. 
         4 & 
         Magisk Skjold & 
         Amok & 
-        Energiens Skjold & 
+        Psykisk Bastion & 
         Energi Flod & 
         Kommando\\\hline
     \end{tabular}
@@ -68,6 +68,7 @@ Mentalisten har specialiseret sig i sindet. Han har stor stolthed i sine evner. 
 \textbf{Rite:} Magi, Give, Liv \\
 \textbf{Effekt:} Med denne magi laver troldmanden en magisk cirkel som skal tegnes op med gryn. Cirklen må have
 en radius på op til 2,5 meter. Denne kan ingen gå igennem og ingen fysisk skade kan gå igennem. Dog kan magi stadig gå igennem. Skjoldet kan også ophæves med ophæv magi. Skjoldet varer maksimum 10 minutter, eller til kasteren forlader det. \\
+\textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
 \textbf{Kommando:} "Magisk skjold"
 \end{primærMagi*}
 
@@ -78,6 +79,7 @@ en radius på op til 2,5 meter. Denne kan ingen gå igennem og ingen fysisk skad
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} Dæmon, Give, Liv, Magi, Give\\ 
 \textbf{Effekt:} Personen bliver sky fra mennesker og ønsker ingen social kontakt med andre, afhængig af personen kan denne blive aggressiv overfor andre. Effekten varer i 10 min.\\
+\textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
 \textbf{Kommando:} Forklar effekten grundigt for subjektet.
 \end{offensiv*}
 
@@ -112,6 +114,7 @@ en radius på op til 2,5 meter. Denne kan ingen gå igennem og ingen fysisk skad
 \textbf{Kategori:} Pegemagi\\
 \textbf{Rite:} Magi, Tanke, Liv\\
 \textbf{Effekt:} Personen kan kun snakke sandt i de næste 10 min.\\
+\textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
 \textbf{Kommando:} Forklar effekten grundigt\\
 \end{defensiv*}
 
@@ -131,14 +134,11 @@ en radius på op til 2,5 meter. Denne kan ingen gå igennem og ingen fysisk skad
 \textbf{Kommando:} "Paralyse, 30 sekunder"\\
 \end{defensiv*}
 
-\begin{defensiv*}[Energiens skjold]
-\textbf{Type:} Positivmagi\\
-\textbf{Kategori:} Berøringsmagi - Kun mentalisten\\
-\textbf{Rite:} Magi, Give, Liv, bevægelse, magi, trække\\
-\textbf{Effekt:} Du laver et skjold af ren energi omkring dig, hvilket beskytter dig for 1 skade pr 2 mana du bruger på denne magi. Denne magi kan ikke beskytte mod pistol skud. Du kan bruge et frivilligt antal mana på denne magi, antallet af mana skal dog kunne deles med 2.\\
-Denne magi varer 10 min.\\
-\textbf{Kommando:} "Energiens skjold"
-\end{defensiv*}\todo{Ændret til 10 minutter i stedet for 30 minutter... TBH burde der findes en anden magi}
+\begin{defensiv*}[Psykisk Bastion]
+\textbf{Type:} Passiv\\
+\textbf{Kategori:} Passiv\\
+\textbf{Effekt:} Du er immun overfor negative magier. Bliver der kastet en negativ magi på dig som bruger Dedikeret mana vil det koste dobbelt så mange dedikeret mana og vil stadig ikke have nogen effekt. Kasteren vil ikke kunne trække denne dedikeret mana tilbage.
+\end{defensiv*}
 
 \section{Passiv}
 
@@ -154,7 +154,7 @@ Denne magi varer 10 min.\\
 \textbf{Type:} Øjeblikkeligmagi\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} Tanke, Magi, Trække\\
-\textbf{Effekt:} Du er i stand til at læse en persons tanker, med dette menes der at du må stille spilleren 3 spørgsmål til spillet off-game (sørg for at i begiver jer væk fra spillet så i ikke forstyrre nogen) disse skal han besvare. Subjektet ved ikke ved ikke at hans tanker er blevet læst.\\
+\textbf{Effekt:} Du må stille en levende person 3 spørgsmål off-game som denne skal svare sandfærdigt på. Denne magi bryder glemsel fra død eller anden kilde. Sørg for at i begiver jer væk fra spillet så i ikke forstyrre nogen. Spørgsmålene skal besvares. Subjektet ved ikke at hans tænker er blevet læst.\\
 \textbf{Kommando:} Effekten skal forklares grundigt til subjektet
 \end{passiv*}
 
@@ -163,6 +163,7 @@ Denne magi varer 10 min.\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} Liv, Magi, Give\\
 \textbf{Effekt:} Personen kan ikke angribe dig den næste time\\
+\textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
 \textbf{Kommando:} Forklar effekten grundigt
 \end{passiv*}
 
@@ -193,12 +194,12 @@ Denne magi varer 10 min.\\
 \textbf{Kommando:} Forklar effekten grundigt
 \end{kontrol*}
 
-\begin{kontrol*}[Ærefrygt]
-\textbf{Type:} Negativmagi\\
-\textbf{Kategori:} Pegemagi\\  
-\textbf{Rite:} Magi, Tanke, Give
-\textbf{Effekt:} 2 personer bliver fyldt med frygt for dig og bliver nød til at knæle. Denne magi kan også bruges som berøringsmagi.\\
-\textbf{Kommando:} "Ærefrygt, Knæl, 30 sekunder"
+\begin{kontrol*}[Tunge Lås]
+\textbf{Type:} Negativ magi\\
+\textbf{Kategori:} Beræringsmagi\\
+\textbf{Effekt:} Subjektet må ikke kan sige 3 bestemte ord som Shamanen bestemmer. Denne magi varer i 15 minutter.\\
+\textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
+\textbf{Kommando:} Forklar effekten grundigt.
 \end{kontrol*}\todo{Sat tid på}
 
 \begin{kontrol*}[Kommando]
