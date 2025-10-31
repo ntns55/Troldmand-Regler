@@ -15,7 +15,7 @@ Nekromantikere besidder evnen til at manipulerer med livs energi. Dette kan vær
         Dødens Gaver\\\hline
         
         2 & 
-        Søvn & 
+        Magisk Beskyttelse & 
         Skab Gespænst & 
         Feber & 
         Dødens sandhed& 
@@ -26,11 +26,11 @@ Nekromantikere besidder evnen til at manipulerer med livs energi. Dette kan vær
         Skab Monstrum & 
         Spedalsk & 
         Opsug Sjæl& 
-        Sjælens Energi\\\hline
+        Sjælens Velstand\\\hline
         
         4 & 
         Døds cirkel & 
-        \small\makecell{Dødens Herrer \\\&\\ Zombie Storm}& 
+        Dødens Herrer & 
         Pest & 
         Forband Sjæl& 
         Dødens Genopstand 
@@ -52,12 +52,12 @@ En person kan godt være påvirket af flere sygdomme på en gang. Hvis personen 
 \textbf{Kommando:} "Fjern zombie"
 \end{primærMagi*}
 
-\begin{primærMagi*}[Søvn]
-\textbf{Type:} Negativmagi\\
+\begin{primærMagi*}[Magisk Beskyttelse]
+\textbf{Type:} Positiv magi\\
 \textbf{Kategori:} Berøringsmagi\\
-\textbf{Rite:} Magi, Trække, Tanke\\
-\textbf{Effekt:} Subjektet falder i søvn i 30 sekunder\\
-\textbf{Kommando:} "Søvn, 30 sekunder"\\
+\textbf{Rite:} Magi, Give, Magi\\
+\textbf{Effekt:} Subjektet bliver immun overfor den næste negative magi. Denne magi forsvinder når den er brugt eller efter 30 min.\\
+\textbf{Kommando:} Forklar effekten grundigt
 \end{primærMagi*}
 
 \begin{primærMagi*}[Ophæv magi]
@@ -76,7 +76,7 @@ En person kan godt være påvirket af flere sygdomme på en gang. Hvis personen 
 \textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
 \textbf{Kommando:} Døds cirkel 4 i skade (Hvis personen dør, informer dem om zombie reglerne.)
 \end{primærMagi*}
-
+\todo{Sort bandana for udøde}
 \section{Zombie}
 \begin{zombie*}[Skab Zombie]
 \textbf{Type:} Negativmagi\\
@@ -122,13 +122,6 @@ Et monstrum kan rive en port op, men vil tage halvdelen af sit maks LP i skade f
 \textbf{Kategori:} Passiv\\
 \textbf{Effekt:} Du kan bruge Dedikeret mana på at skabe dine udøde. (Husk at spørge spilleren offgame om de er okay med det). Har du brugt dedikeret mana vil dine Zombier ikke kunne helbredes med almindelige helbredelses metoder indtil du har trukket den dedikerede mana tilbage. Dine udøde vil tilgengæld genvinde 1 LP hvert 2 minutter udenfor kamp.
 \end{zombie*}
-\begin{zombie*}[Zombie Storm]
-\textbf{Type:} Øjeblikkeligmagi\\
-\textbf{Kategori:} Område magi\\
-\textbf{Rite:} Magi, Liv, Død, Magi, Jord, Dæmon, Død\\
-\textbf{Effekt:} Det foreslåes kraftigt at du koordinere med dine Udøde på forhånd således at de ved hvad der vil ske når du kaster denne magi. Alle udøde du har brugt dedikeret mana på vil genvinde 5 LP, såfremt at de er blevet dræbt. Der er ingen radius på denne magi, de skal blot kunne høre din stemme. Det foreslåes at du bruger et kodeord så de ved at det er dig der kaster denne magi.\\
-\textbf{Kommando:} "UDØDE REJS JER! [Kodeord]" 
-\end{zombie*}
 
 %\begin{zombie*}[Skab Døds Ridder]
 %\textbf{Type:} Negativmagi\\
@@ -157,7 +150,7 @@ Et monstrum kan rive en port op, men vil tage halvdelen af sit maks LP i skade f
 \textbf{Kommando:} Forklar effekten grundigt til subjektet. Husk at forklare hvad en sygdom er.
 \end{sygdom*}
 
-\begin{sygdom*}Spedalsk
+\begin{sygdom*}[Spedalsk]
 \textbf{Type:} Sygdom\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} Trække, Liv, Trække\\
@@ -204,7 +197,7 @@ Et monstrum kan rive en port op, men vil tage halvdelen af sit maks LP i skade f
 \textbf{Type:} Sygdom\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} Trække, Liv, Give, Død, Give, Dæmon\\
-\textbf{Effekt:} Lav en negativ magi om til en sygdom (Dette kan ikke være paralyse, søvn eller andet som gør at personen ikke kan bevæge sig). Du skal kunne kaste magien, eller have en skriftrulle med magien på.\\
+\textbf{Effekt:} Lav en negativ magi om til en sygdom (Dette kan ikke være paralyse, søvn eller andet som gør at personen ikke kan bevæge sig, eller effekter der gør folk til Udøde.). Du skal kunne kaste magien, eller have en skriftrulle med magien på.\\
 \textbf{Kommando:} Forklar effekten grundigt.
 \end{nSjæl*}
 
@@ -222,11 +215,10 @@ Et monstrum kan rive en port op, men vil tage halvdelen af sit maks LP i skade f
 \textbf{Effekt:} Når nekromantikeren gennemleder et lig for penge vil de også automatisk genvinde 1 Mana. Det tager 30 sekunder at gennemlede en person. Den samme person kan ikke gennemledes flere gange.\\
 \end{død*}
 
-\begin{død*}[Sjælens energi]
+\begin{død*}[Sjælens Velstand]
 \textbf{Type:} Passiv\\
-\textbf{Kategori:} Berøringsmagi\\
-\textbf{Rite:} Trække, Liv, [Riten til den magi du vil kaste], Magi\\
-\textbf{Effekt:} Du kan bruge LP som mana enten fra dig selv eller fra et villigt subjekt. For at bruge denne magi skal riterne trække og liv sættes foran den originale rite og riten magi skal sættes efter. Der kan ikke kastes niveau 4 magier eller skabes udøde med denne magi.
+\textbf{Kategori:} -\\
+\textbf{Effekt:} Du er immun overfor sygdomme og gifte.
 \end{død*}
 
 \begin{død*}[Dødens genopstand]
