@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1762260969.54392 "c:/Users/niels/Documents/GitHub/Troldmand-Regler/main.tex" "main.pdf" "main" 1762260973.71105 0
+["pdflatex"] 1762281968.42174 "c:/Users/niels/Documents/GitHub/Troldmand-Regler/main.tex" "main.pdf" "main" 1762281972.80393 0
   "../Evne-Ordbog/Ekstra Mana/Ekstra Mana Niv. 1.tex" 1757882266 66 99e63486976c484aa738f12fe82c4695 ""
   "../Evne-Ordbog/Ekstra Mana/Ekstra Mana Niv. 2.tex" 1757955592 66 ee7a953e6d67749240afb37f20468a0e ""
   "../Evne-Ordbog/Ekstra Mana/Ekstra Mana Niv. 3.tex" 1757800979 121 caf318e11b5ed1bc75297b22044f984d ""
-  "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex" 1758221558 122 ba25b781fb5a459c20d8a0c78fdf92f9 ""
+  "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex" 1762279247 66 25eea2570a3e00541495a367679deb9a ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6sansNiv2.tex" 1758221558 123 88d24f5d7d40dd90ed7f740380219219 ""
   "../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex" 1758221558 537 bc4ff6c8ccd470eeaf4c99935a3ec95b ""
   "../Evne-Ordbog/GenerelleEvner/Evner/Bære Person.tex" 1761678072 354 cbc3cc2baec5fae1038a3ee732302b8a ""
@@ -301,10 +301,10 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/niels/Documents/GitHub/Troldmand-Regler/main.tex" 1757888587 1797 6cf6d81b9a57d679a852430283ddc0bc ""
-  "main.aux" 1762260973 13021 00c8d0e2b74720190b088a1e2a59b217 "pdflatex"
-  "main.out" 1762260973 9753 f5559bb4654cf5fe3ac1a7e079bfc1cd "pdflatex"
+  "main.aux" 1762281972 13014 004338d2df88643a255065e40c8183d9 "pdflatex"
+  "main.out" 1762281972 9712 eef1746bfcb29c68b3467e48b70a6883 "pdflatex"
   "main.tex" 1757888587 1797 6cf6d81b9a57d679a852430283ddc0bc ""
-  "main.toc" 1762260973 4872 363ba95fd01a28f02b3de0515bb1c89a "pdflatex"
+  "main.toc" 1762281972 4865 a170bea6c1d8b9528bc502986c13cde0 "pdflatex"
   "mainstuff/Indledning.tex" 1761852754 1894 f77d52414fba0f1233303f53e2dbb84d ""
   "mainstuff/MagiSomTroldmand.tex" 1762203736 5726 9bcadf0c0f6993e0ad5c78483ea89c27 ""
   "mainstuff/Niv1.tex" 1762203224 1642 6987387ba6fe882a6a0927b895fe3b13 ""

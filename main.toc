@@ -28,7 +28,7 @@
 \contentsline {subsection}{Ærkemagi}{15}{subsection*.35}%
 \contentsline {chapter}{\numberline {6}Generelle evner}{16}{chapter.6}%
 \contentsline {section}{Evne beskrivelse}{16}{section*.38}%
-\contentsline {subsection}{6. sans Niv. 1}{16}{subsection*.39}%
+\contentsline {subsection}{6. sans}{16}{subsection*.39}%
 \contentsline {subsection}{6. sans Niv. 2}{17}{subsection*.40}%
 \contentsline {subsection}{Bonk}{17}{subsection*.41}%
 \contentsline {subsection}{Bære person}{17}{subsection*.42}%
