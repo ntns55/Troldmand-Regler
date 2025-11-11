@@ -29,52 +29,51 @@
 \contentsline {chapter}{\numberline {6}Generelle evner}{16}{chapter.6}%
 \contentsline {section}{Evne beskrivelse}{16}{section*.38}%
 \contentsline {subsection}{6. sans}{16}{subsection*.39}%
-\contentsline {subsection}{6. sans Niv. 2}{17}{subsection*.40}%
-\contentsline {subsection}{Bonk}{17}{subsection*.41}%
-\contentsline {subsection}{Bære person}{17}{subsection*.42}%
-\contentsline {subsection}{Førstehjælp}{17}{subsection*.43}%
-\contentsline {subsection}{Læse og skrive}{18}{subsection*.44}%
-\contentsline {subsection}{Minearbejder}{18}{subsection*.45}%
-\contentsline {subsection}{Påfør gift}{18}{subsection*.46}%
-\contentsline {subsection}{Slagsbror Niv. 1}{18}{subsection*.47}%
-\contentsline {subsection}{Slagsbror Niv. 2}{19}{subsection*.48}%
-\contentsline {subsection}{Slagsbror Niv. 2}{19}{subsection*.49}%
-\contentsline {subsection}{Speciale}{19}{subsection*.50}%
-\contentsline {subsection}{Universets Centrum}{19}{subsection*.51}%
-\contentsline {subsection}{Universets Ydre}{20}{subsection*.52}%
-\contentsline {subsection}{Urtesamler}{20}{subsection*.53}%
+\contentsline {subsection}{Bonk}{17}{subsection*.40}%
+\contentsline {subsection}{Bære person}{17}{subsection*.41}%
+\contentsline {subsection}{Førstehjælp}{17}{subsection*.42}%
+\contentsline {subsection}{Læse og skrive}{17}{subsection*.43}%
+\contentsline {subsection}{Minearbejder}{18}{subsection*.44}%
+\contentsline {subsection}{Påfør gift}{18}{subsection*.45}%
+\contentsline {subsection}{Slagsbror Niv. 1}{18}{subsection*.46}%
+\contentsline {subsection}{Slagsbror Niv. 2}{18}{subsection*.47}%
+\contentsline {subsection}{Slagsbror Niv. 3}{19}{subsection*.48}%
+\contentsline {subsection}{Speciale}{19}{subsection*.49}%
+\contentsline {subsection}{Universets Centrum}{19}{subsection*.50}%
+\contentsline {subsection}{Universets Ydre}{19}{subsection*.51}%
+\contentsline {subsection}{Urtesamler}{19}{subsection*.52}%
 \contentsline {chapter}{\numberline {7}Magi}{21}{chapter.7}%
-\contentsline {section}{Generelle regler om Magi}{21}{section*.54}%
-\contentsline {subsection}{Magiens elve bud}{21}{subsection*.55}%
-\contentsline {subsection}{At kaste magi}{23}{subsection*.56}%
+\contentsline {section}{Generelle regler om Magi}{21}{section*.53}%
+\contentsline {subsection}{Magiens elve bud}{21}{subsection*.54}%
+\contentsline {subsection}{At kaste magi}{23}{subsection*.55}%
 \contentsline {chapter}{\numberline {8}Magi som Troldmand}{24}{chapter.8}%
-\contentsline {section}{Niveauerne}{24}{section*.57}%
-\contentsline {section}{Magibog og Riter}{25}{section*.58}%
-\contentsline {section}{Mana}{25}{section*.59}%
-\contentsline {section}{Dedikeret mana}{25}{section*.60}%
+\contentsline {section}{Niveauerne}{24}{section*.56}%
+\contentsline {section}{Magibog og Riter}{25}{section*.57}%
+\contentsline {section}{Mana}{25}{section*.58}%
+\contentsline {section}{Dedikeret mana}{25}{section*.59}%
 \contentsline {chapter}{\numberline {9}Dæmonolog}{27}{chapter.9}%
-\contentsline {section}{Primær magi}{27}{section*.62}%
-\contentsline {section}{Sælg din sjæl}{29}{section*.63}%
-\contentsline {section}{Dæmonisk hævn}{31}{section*.65}%
-\contentsline {section}{Korruption}{32}{section*.66}%
-\contentsline {section}{Falden Engel}{34}{section*.68}%
+\contentsline {section}{Primær magi}{27}{section*.61}%
+\contentsline {section}{Sælg din sjæl}{29}{section*.62}%
+\contentsline {section}{Dæmonisk hævn}{31}{section*.64}%
+\contentsline {section}{Korruption}{32}{section*.65}%
+\contentsline {section}{Falden Engel}{34}{section*.67}%
 \contentsline {chapter}{\numberline {10}Elementalist}{36}{chapter.10}%
-\contentsline {section}{Primær magi}{36}{section*.70}%
-\contentsline {section}{Vand}{37}{section*.71}%
-\contentsline {section}{Ild}{38}{section*.72}%
-\contentsline {section}{Jord}{40}{section*.73}%
-\contentsline {section}{Vind}{41}{section*.74}%
+\contentsline {section}{Primær magi}{36}{section*.69}%
+\contentsline {section}{Vand}{37}{section*.70}%
+\contentsline {section}{Ild}{38}{section*.71}%
+\contentsline {section}{Jord}{40}{section*.72}%
+\contentsline {section}{Vind}{41}{section*.73}%
 \contentsline {chapter}{\numberline {11}Mentalist}{43}{chapter.11}%
-\contentsline {section}{Primær magi}{43}{section*.76}%
-\contentsline {section}{Offensiv}{44}{section*.77}%
-\contentsline {section}{Defensiv}{46}{section*.78}%
-\contentsline {section}{Passiv}{47}{section*.79}%
-\contentsline {section}{Kontrol}{48}{section*.80}%
+\contentsline {section}{Primær magi}{43}{section*.75}%
+\contentsline {section}{Offensiv}{44}{section*.76}%
+\contentsline {section}{Defensiv}{46}{section*.77}%
+\contentsline {section}{Passiv}{47}{section*.78}%
+\contentsline {section}{Kontrol}{48}{section*.79}%
 \contentsline {chapter}{\numberline {12}Nekromantiker}{50}{chapter.12}%
-\contentsline {section}{Sygdom}{50}{section*.82}%
-\contentsline {section}{Primær magi}{50}{section*.83}%
-\contentsline {section}{Zombie}{52}{section*.85}%
-\contentsline {section}{Sygdommens Mørke}{54}{section*.86}%
-\contentsline {section}{Sjæl}{56}{section*.87}%
-\contentsline {section}{Forrådnelse}{57}{section*.88}%
-\contentsline {chapter}{Liste af Riter}{59}{chapter*.89}%
+\contentsline {section}{Sygdom}{50}{section*.81}%
+\contentsline {section}{Primær magi}{50}{section*.82}%
+\contentsline {section}{Zombie}{52}{section*.84}%
+\contentsline {section}{Sygdommens Mørke}{54}{section*.85}%
+\contentsline {section}{Sjæl}{56}{section*.86}%
+\contentsline {section}{Forrådnelse}{57}{section*.87}%
+\contentsline {chapter}{Liste af Riter}{59}{chapter*.88}%

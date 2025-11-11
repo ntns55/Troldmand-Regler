@@ -531,6 +531,9 @@ INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive ElviskDesc.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive ElviskDesc.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive ElviskDesc.tex
 INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
 INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
 INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
@@ -627,29 +630,36 @@ INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6sansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6sansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6sansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6sansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6sansNiv2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1Desc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1Desc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1Desc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\BonkDesc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\BonkDesc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\BonkDesc.tex
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære PersonDesc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære PersonDesc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære PersonDesc.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\FrøstehjælpDesc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\FrøstehjælpDesc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\FrøstehjælpDesc.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
@@ -660,11 +670,17 @@ INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\MinearbejderDesc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\MinearbejderDesc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\MinearbejderDesc.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør GiftDesc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør GiftDesc.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør GiftDesc.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
