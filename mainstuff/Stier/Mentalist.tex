@@ -8,9 +8,9 @@ Mentalisten har specialiseret sig i sindet. Han har stor stolthed i sine evner. 
         
         1 & 
         Magisk Beskyttelse & 
-        Aggressiv & 
+        Smerte & 
         Sandhed & 
-        Passiv berøring& 
+        Gåde Ramt& 
         Glemsel\\\hline
         
         2 & 
@@ -22,14 +22,14 @@ Mentalisten har specialiseret sig i sindet. Han har stor stolthed i sine evner. 
         
         3 & 
         Ophæv Magi & 
-        Smerte & 
+        Amok & 
         Psykisk Bastion & 
         Fred& 
         Tunge Lås\\\hline
         
         4 & 
         Magisk Skjold & 
-        Amok & 
+        Stjæl Viden & 
         Plantet Tanke & 
         Energi Flod & 
         Kommando\\\hline
@@ -74,13 +74,12 @@ en radius på op til 2,5 meter. Denne kan ingen gå igennem og ingen fysisk skad
 
 \section{Offensiv}
 
-\begin{offensiv*}[Aggressiv]
+\begin{offensiv*}[Smerte]
 \textbf{Type:} Negativmagi\\
 \textbf{Kategori:} Berøringsmagi\\
-\textbf{Rite:} Dæmon, Give, Liv, Magi, Give\\ 
-\textbf{Effekt:} Personen bliver sky fra mennesker og ønsker ingen social kontakt med andre, afhængig af personen kan denne blive aggressiv overfor andre. Effekten varer i 10 min.\\
-\textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
-\textbf{Kommando:} Forklar effekten grundigt for subjektet.
+\textbf{Rite:} Magi, Give, Dæmon\\
+\textbf{Effekt:} Subjektet bliver fyldt med smerte i 30 sekunder. Denne magi kan også bruges som berøringsmagi.\\
+\textbf{Kommando:} "Smerte, 30 sekunder"
 \end{offensiv*}
 
 \begin{offensiv*}[Svaghed]
@@ -91,20 +90,21 @@ en radius på op til 2,5 meter. Denne kan ingen gå igennem og ingen fysisk skad
 \textbf{Kommando:} Forklar effekten grundigt
 \end{offensiv*}
 
-\begin{offensiv*}[Smerte]
-\textbf{Type:} Negativmagi\\
-\textbf{Kategori:} Pegemagi\\
-\textbf{Rite:} Magi, Give, Dæmon\\
-\textbf{Effekt:} Subjektet bliver fyldt med smerte i 30 sekunder. Denne magi kan også bruges som berøringsmagi.\\
-\textbf{Kommando:} "Smerte, 30 sekunder"
-\end{offensiv*}
-
 \begin{offensiv*}[Amok]
 \textbf{Type:} Negativmagi\\
 \textbf{Kategori:} Pegemagi\\
 \textbf{Rite:} Trække, Tanke, Give, Dæmon\\
 \textbf{Effekt:} Subjektet går amok i 30 sekunder eller indtil subjektet når 0 LP\\
 \textbf{Kommando:} "Amok, 30 sekunder"\\
+\end{offensiv*}
+
+\begin{offensiv*}[Stjæl Viden]
+\textbf{Denne magi bruger dedikeret mana.}\\
+\textbf{Type:} Positivmagi\\
+\textbf{Kategori:} Kun Mentalisten selv\\
+\textbf{Rite:} Magi, Trække, Magi, Trække, Tanke, Trække, Magi, Tanke, Trække, Trække, Tanke, Dæmon\\
+\textbf{Effekt:} Denne magi kan kastes mens du har adgang til en anden troldmands magibog. Du må vælge en magi i denne bog, som ikke er passiv, og som ikke bruger dedikeret mana. Du kan kaste denne resten af spilgangen.\\
+\textbf{Kommando:} Forklar effekten grundigt.\\
 \end{offensiv*}
 
 \section{Defensiv}
@@ -137,17 +137,18 @@ en radius på op til 2,5 meter. Denne kan ingen gå igennem og ingen fysisk skad
 \textbf{Type:} Negativmagi\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} Magi, Trække, Tanke, Give, Magi, Tanke\\
-\textbf{Effekt:} Du må give en anden spiller en sandhed. De vil antage at denne sandhed er fakta, ligesom 2+2=4. Hvis det er åbenlyst at det ikke er sandt vil denne magi fejle.\\
+\textbf{Effekt:} Du må give en anden spiller en sandhed. De vil antage at denne sandhed er fakta, ligesom 2+2=4. Hvis det er åbenlyst at det ikke er sandt vil denne magi fejle. Subjektet vil ikke huske at de er blevet ramt af denne magi.\\
 \textbf{Kommando:} Forklar effekten grundigt.\\
-\textbf{VIGTIGT:} Har denne magi været i effekt i minimum en time og der bliver kaldt til spilstop, så vil denne effekt være permanent og vil ikke kunne fjernes.
 \end{defensiv*}
 
 \section{Passiv}
-\begin{passiv*}[Passiv berøring]
+\begin{passiv*}[Gåde Ramt]
 \textbf{Type:} Negativmagi\\
 \textbf{Kategori:} Berøringsmagi\\
 \textbf{Rite:} Give, Liv, Trække, Dæmon\\
-\textbf{Effekt:} Subjektet bliver ude af stand til at gøre nogle aggressive handlinger eller tage aggressive beslutninger i 5 min. Subjektet må dog godt udøve selvforsvar.\\
+\textbf{Effekt:} Subjektet kan nu kun stille spørgsmål.\\
+\textbf{Eksempel:} \textit{Kan jeg få et glas vand? Hvad laver du? Har du lyst til at gå ud og dræbe orkere? Er det normalt at orkerne kommer herover?}\\
+\textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
 \textbf{Kommando:} Forklar effekten grundigt
 \end{passiv*}
 
@@ -171,7 +172,7 @@ en radius på op til 2,5 meter. Denne kan ingen gå igennem og ingen fysisk skad
 \begin{passiv*}[Energi flod]
     \textbf{Type:} Øjeblikkeligmagi\\
     \textbf{Kategori:} Berøringsmagi\\
-    \textbf{Rite:} Magi, Give, Magi, Give, Magi, Bevægelse, Give\\
+    \textbf{Rite:} Bevægelse, Give, Dæmon\\
     \textbf{Effekt:} Du lader din energi løbe igennem dit offer. Du bestemmer hvor meget mana du vælger at bruge på magien, dog skader den alt efter hvor meget mana du vælger at bruge på den.\\
     \textbf{Eksempel:} \textit{ Jeg vælger at ofre 3 mana på denne magi, og derfor skader den 3 LP.}\\
     \textbf{Kommando:} "Energi flod, x i skade" (Hvor x er mængden af mana du bruger)\\
@@ -197,8 +198,8 @@ en radius på op til 2,5 meter. Denne kan ingen gå igennem og ingen fysisk skad
 
 \begin{kontrol*}[Tunge Lås]
 \textbf{Type:} Negativ magi\\
-\textbf{Kategori:} Beræringsmagi\\
-\textbf{Effekt:} Subjektet må ikke kan sige 3 bestemte ord som Shamanen bestemmer. Denne magi varer i 15 minutter.\\
+\textbf{Kategori:} Berøringsmagi\\
+\textbf{Effekt:} Subjektet må ikke kan sige 3 bestemte ord som Troldmanden bestemmer. Denne magi varer i 15 minutter.\\
 \textbf{Note:} Denne magi kan bruges med Dedikeret mana og den vil vare indtil den dedikerede mana trækkes tilbage. Ophæves eller brydes magien vil du ikke få din mana tilbage før næste spilgang.\\
 \textbf{Kommando:} Forklar effekten grundigt.
 \end{kontrol*}
